@@ -1,0 +1,2956 @@
+{
+  "checkedAt": "2026-10-25",
+  "sources": [
+    "https://dmps.takaratomy.co.jp/card/",
+    "https://dmps.takaratomy.co.jp/api1.0/plays/cards",
+    "https://dmps.takaratomy.co.jp/faq-cardrule/no-449"
+  ],
+  "cards": [
+    {
+      "id": "100200",
+      "name": "G・A・ペガサス",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light"
+      ],
+      "cost": 5,
+      "power": "4000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド",
+        "アポロニア・ドラゴン"
+      ],
+      "rarity": "VR",
+      "set": "DMPP-08",
+      "text": "■G・リンク（自然/6）：《G・E・レオパルド》とリンクして《G・A・E・ペガサス・レオパルド》になる。\n■バトルゾーンに出た時、自分の山札から自然の呪文を探索し、1枚を公開してから手札に加えてもよい。その後、山札をシャッフルする。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/100200.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "100500",
+      "name": "金剛神ガナストラ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light"
+      ],
+      "cost": 4,
+      "power": "5000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPP-08",
+      "text": "■G・リンク（水/5）：《修羅王ガラサラマ》とリンクして《金剛修羅王ガナストラ・ガラサラマ》となる。\n◇ブロッカー\n■相手プレイヤーを攻撃できない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/100500.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "101400",
+      "name": "邪道神キキ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "water"
+      ],
+      "cost": 5,
+      "power": "5000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "VR",
+      "set": "DMPP-08",
+      "text": "■G・リンク（闇/5）：《外道神カイカイ》とリンクして《邪道外道神キキカイカイ》となる。\n◇ブロッカー\n■ブロックした時、カードを1枚引く。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/101400.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "101700",
+      "name": "修羅王ガラサラマ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "water"
+      ],
+      "cost": 5,
+      "power": "4000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPP-08",
+      "text": "■G・リンク（光/4）：《金剛神ガナストラ》とリンクして《金剛修羅王ガナストラ・ガラサラマ》となる。\n■攻撃する時、カードを1枚引く。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/101700.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "102500",
+      "name": "竜極神ゲキ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness"
+      ],
+      "cost": 7,
+      "power": "7000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド",
+        "ドラゴン・ゾンビ"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-08",
+      "text": "■G・リンク（火/7）：《竜極神メツ》とリンクして《竜極神ゲキメツ》となる\n■バトルゾーンに出た時、自分の墓地から進化でないコスト4以下のクリーチャー1枚をバトルゾーンに出してもよい。\n■ブロックされた時、相手は手札をすべて捨てる。\n■W・ブレイカー",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/102500.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "102700",
+      "name": "外道神カイカイ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness"
+      ],
+      "cost": 5,
+      "power": "4000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "VR",
+      "set": "DMPP-08",
+      "text": "■G・リンク（水/5）：《邪道神キキ》とリンクして《邪道外道神キキカイカイ》となる。\n■相手が呪文を唱えた時、カードを1枚引く。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/102700.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "103700",
+      "name": "竜極神メツ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire"
+      ],
+      "cost": 7,
+      "power": "7000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド",
+        "アーマード・ドラゴン"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-08",
+      "text": "■G・リンク（闇/7）：《竜極神ゲキ》とリンクして《竜極神ゲキメツ》となる\n■バトルゾーンに出た時、相手のパワー2000以下のクリーチャーをすべて破壊する。\n■相手プレイヤーを攻撃してブロックされなかった時、相手のパワー6000以下のクリーチャー1体を破壊する。\n■W・ブレイカー",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/103700.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "104100",
+      "name": "炎武神バルザック",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire"
+      ],
+      "cost": 5,
+      "power": "5000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPP-08",
+      "text": "■G・リンク（自然/5）：《地武神オルメガス》とリンクして《炎地武神バルザック・オルメガス》になる。\n■バトルゾーンに出た時、相手のパワー6000以下の「ブロッカー」を持つクリーチャー1体を破壊する。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/104100.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "105000",
+      "name": "G・E・レオパルド",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "nature"
+      ],
+      "cost": 6,
+      "power": "5000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド",
+        "アース・ドラゴン"
+      ],
+      "rarity": "VR",
+      "set": "DMPP-08",
+      "text": "■G・リンク（光/5）：《G・A・ペガサス》とリンクして《G・A・E・ペガサス・レオパルド》になる。\n■バトルゾーンに出た時、自分の山札から光のクリーチャーまたは光のゴッドを探索し、1枚を公開してから自分の手札に加えてもよい。その後、山札をシャッフルする。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/105000.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "105300",
+      "name": "地武神オルメガス",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "nature"
+      ],
+      "cost": 5,
+      "power": "5000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPP-08",
+      "text": "■G・リンク（火/5）：《炎武神バルザック》とリンクして《炎地武神バルザック・オルメガス》になる。\n■バトルゾーンに出た時、自分の山札からゴッドを探索し、1枚を公開してもよい。その後、山札をシャッフルし、公開したゴッドを山札の一番上に置く。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/105300.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "106100",
+      "name": "竜極神ゲキメツ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness",
+        "fire"
+      ],
+      "cost": 14,
+      "power": "24000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド",
+        "ドラゴン・ゾンビ",
+        "アーマード・ドラゴン"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-08",
+      "text": "（《竜極神ゲキ》と《竜極神メツ》がリンク中）\n■攻撃する時、相手のマナゾーンからランダムなカード2枚を墓地に置く。\n■ブロックされた時、相手は手札をすべて捨てる。\n■相手プレイヤーを攻撃してブロックされなかった時、相手のパワー6000以下のクリーチャー1体を破壊する。\n■Q・ブレイカー",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/106100.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "106800",
+      "name": "G・A・E・ペガサス・レオパルド",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light",
+        "nature"
+      ],
+      "cost": 11,
+      "power": "9000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド",
+        "アポロニア・ドラゴン",
+        "アース・ドラゴン"
+      ],
+      "rarity": "VR",
+      "set": "DMPP-08",
+      "text": "（《G・E・レオパルド》と《G・A・ペガサス》がリンク中）\n■相手はこのクリーチャーを選べない。\n■W・ブレイカー",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/106800.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "107000",
+      "name": "邪道外道神キキカイカイ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "water",
+        "darkness"
+      ],
+      "cost": 10,
+      "power": "9000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "VR",
+      "set": "DMPP-08",
+      "text": "（《邪道神キキ》と《外道神カイカイ》がリンク中）\n◇ブロッカー\n■W・ブレイカー\n■ブロックした時、カードを1枚引く。\n■相手が呪文を唱えた時、カードを1枚引く。\n■自分がカードを引いた時、引いた枚数と同じ数の手札を相手は選んで捨てる。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/107000.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "107400",
+      "name": "金剛修羅王ガナストラ・ガラサラマ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light",
+        "water"
+      ],
+      "cost": 9,
+      "power": "9000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPP-08",
+      "text": "（《金剛神ガナストラ》と《修羅王ガラサラマ》がリンク中）\n◇ブロッカー\n■W・ブレイカー\n■攻撃する時、カードを1枚引く。\n■自分のターン終了時、アンタップする。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/107400.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "108000",
+      "name": "炎地武神バルザック・オルメガス",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire",
+        "nature"
+      ],
+      "cost": 10,
+      "power": "10000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPP-08",
+      "text": "（《炎武神バルザック》と《地武神オルメガス》がリンク中）\n■T・ブレイカー\n■パワーアタッカー+5000",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/108000.png",
+      "releaseDate": 202102,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "111100",
+      "name": "流神ウンギョウ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "water"
+      ],
+      "cost": 3,
+      "power": "2000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPP-08EX",
+      "text": "■G・リンク（火/4）：《烈神アギョウ》とリンクして《烈流神アギョウ・ウンギョウ》になる。\n■破壊される時、かわりに手札に戻す。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/111100.png",
+      "releaseDate": 202104,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "113300",
+      "name": "烈神アギョウ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire"
+      ],
+      "cost": 4,
+      "power": "3000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPP-08EX",
+      "text": "■G・リンク（水/3）：《流神ウンギョウ》とリンクして《烈流神アギョウ・ウンギョウ》になる。\n■パワーアタッカー+2000",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/113300.png",
+      "releaseDate": 202104,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "114600",
+      "name": "烈流神アギョウ・ウンギョウ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "water",
+        "fire"
+      ],
+      "cost": 7,
+      "power": "5000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPP-08EX",
+      "text": "（《流神ウンギョウ》と《烈神アギョウ》がリンク中）\n■W・ブレイカー\n■パワーアタッカー+2000\n■ブロックされない。\n■破壊される時、かわりに手札に戻す。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/114600.png",
+      "releaseDate": 202104,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "124900",
+      "name": "超絶神ゼン",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light",
+        "water"
+      ],
+      "cost": 7,
+      "power": "8000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-09",
+      "text": "■G・リンク（水闇/7）：《究極神アク》とリンクして《超絶究極神ゼンアク》となる。\n◇ブロッカー\n■W・ブレイカー\n■各ターン、初めてブロックした時、アンタップする。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/124900.png",
+      "releaseDate": 202105,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "125000",
+      "name": "究極神アク",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "water",
+        "darkness"
+      ],
+      "cost": 7,
+      "power": "9000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-09",
+      "text": "■G・リンク（光水/7）：《超絶神ゼン》とリンクして《超絶究極神ゼンアク》となる。\n■W・ブレイカー\n■自分のゴッドが破壊される時、かわりに手札に戻す。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/125000.png",
+      "releaseDate": 202105,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "125100",
+      "name": "超絶究極神ゼンアク",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light",
+        "water",
+        "darkness"
+      ],
+      "cost": 14,
+      "power": "17000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-09",
+      "text": "（《超絶神ゼン》と《究極神アク》がリンク中）\n◇ブロッカー\n■T・ブレイカー\n■攻撃する時、相手のクリーチャー1体を破壊する。\n■自分のゴッドが破壊される時、かわりに手札に戻す。\n■各ターン、初めてブロックした時、アンタップする。\n■自分のターン終了時、アンタップする。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/125100.png",
+      "releaseDate": 202105,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "126500",
+      "name": "至高神オービタル",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness",
+        "fire"
+      ],
+      "cost": 6,
+      "power": "6000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPP-09",
+      "text": "■G・リンク（火自然/4）：《無上神アンダーワールド》とリンクして《至高無上神オービタル・アンダーワールド》となる。\n■攻撃する時、相手は自身の手札を1枚捨てる。\n■W・ブレイカー",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/126500.png",
+      "releaseDate": 202105,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "126600",
+      "name": "無上神アンダーワールド",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire",
+        "nature"
+      ],
+      "cost": 4,
+      "power": "3000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPP-09",
+      "text": "■G・リンク（闇火/6）：《至高神オービタル》とリンクして《至高無上神オービタル・アンダーワールド》となる。\n■バトルゾーンに出た時、自分のマナゾーンからゴッドを探索し、1枚を手札に戻してもよい。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/126600.png",
+      "releaseDate": 202105,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "126700",
+      "name": "至高無上神オービタル・アンダーワールド",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness",
+        "fire",
+        "nature"
+      ],
+      "cost": 10,
+      "power": "9000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPP-09",
+      "text": "（《至高神オービタル》と《無上神アンダーワールド》がリンク中）\n■W・ブレイカー\n■攻撃する時、相手は自身の手札を1枚捨てる。\n■バトルに勝った時、アンタップする。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/126700.png",
+      "releaseDate": 202105,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "150200",
+      "name": "魔光神レオパルドII世",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light"
+      ],
+      "cost": 5,
+      "power": "5000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ナイト",
+        "ゴッド"
+      ],
+      "rarity": "VR",
+      "set": "DMPP-10EX",
+      "text": "■G・リンク（闇/4）：《魔光神ルドヴィカII世》とリンクして《魔光神ルドヴィカ・レオパルドII世》になる。\n■バトルゾーンに出た時、自分の山札からナイトを探索し、1枚を公開してから手札に加える。その後、山札をシャッフルする。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/150200.png",
+      "releaseDate": 202110,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "152100",
+      "name": "魔光神ルドヴィカII世",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness"
+      ],
+      "cost": 4,
+      "power": "4000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ナイト",
+        "ゴッド"
+      ],
+      "rarity": "VR",
+      "set": "DMPP-10EX",
+      "text": "■G・リンク（光/5）：《魔光神レオパルドII世》とリンクして《魔光神ルドヴィカ・レオパルドII世》になる。\n■このクリーチャーは、このターンに自分が唱えた呪文1枚につき、シールドをさらに1つブレイクする。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/152100.png",
+      "releaseDate": 202110,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "154900",
+      "name": "魔光神ルドヴィカ・レオパルドII世",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light",
+        "darkness"
+      ],
+      "cost": 9,
+      "power": "9000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ナイト",
+        "ゴッド"
+      ],
+      "rarity": "VR",
+      "set": "DMPP-10EX",
+      "text": "（《魔光神レオパルドII世》と《魔光神ルドヴィカII世》がリンク中）\n■相手はこのクリーチャーを選べない。\n■このクリーチャーは、このターンに自分が唱えた呪文1枚につき、シールドをさらに1つブレイクする。\n■W・ブレイカー",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/154900.png",
+      "releaseDate": 202110,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "163200",
+      "name": "龍神ヘヴィ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness"
+      ],
+      "cost": 5,
+      "power": "5000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド",
+        "ドラゴン・ゾンビ"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-11",
+      "text": "■G・リンク（火/7）：《龍神メタル》とリンクして《龍神ヘヴィ・メタル》となる。\n■バトルゾーンに出た時、自分のクリーチャー1体を破壊してもよい。そうした場合、相手は自身のクリーチャー1体を破壊する。\n■リンクした時、カードを1枚引く。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/163200.png",
+      "releaseDate": 202111,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "164900",
+      "name": "龍神メタル",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire"
+      ],
+      "cost": 7,
+      "power": "7000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド",
+        "アーマード・ドラゴン"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-11",
+      "text": "■G・リンク（闇/5）：《龍神ヘヴィ》とリンクして《龍神ヘヴィ・メタル》となる。\n■バトルゾーンに出た時、相手のクロスギア1枚を墓地に置く。\n■相手の使用可能マナは1少なくなる。（この効果は重複しない）\n■W・ブレイカー",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/164900.png",
+      "releaseDate": 202111,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "168000",
+      "name": "破壊神デス",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness",
+        "fire"
+      ],
+      "cost": 10,
+      "power": "12000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-11",
+      "text": "■スピードアタッカー\n■T・ブレイカー\n■リンクした時、相手のゴッド以外のクリーチャーをすべて破壊する。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/168000.png",
+      "releaseDate": 202111,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "168100",
+      "name": "龍神ヘヴィ・メタル",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness",
+        "fire"
+      ],
+      "cost": 12,
+      "power": "12000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド",
+        "ドラゴン・ゾンビ",
+        "アーマード・ドラゴン"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-11",
+      "text": "（《龍神ヘヴィ》と《龍神メタル》がリンク中）\n■G・リンク（闇火/10）：《破壊神デス》とリンクして《破壊龍神ヘヴィ・デス・メタル》となる。\n■相手の使用可能マナは1少なくなる。（この効果は重複しない）\n■相手のターン中、このクリーチャーがタップされていて、そのターンにまだ攻撃を受けていないなら、相手のクリーチャーは可能ならこのクリーチャーを攻撃する。\n■T・ブレイカー",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/168100.png",
+      "releaseDate": 202111,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "168200",
+      "name": "破壊龍神ヘヴィ・デス・メタル",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness",
+        "fire"
+      ],
+      "cost": 22,
+      "power": "24000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド",
+        "ドラゴン・ゾンビ",
+        "アーマード・ドラゴン"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-11",
+      "text": "（《龍神ヘヴィ》と《破壊神デス》と《龍神メタル》がリンク中）\n■相手の使用可能マナは1少なくなる。（この効果は重複しない）\n■相手はこのクリーチャーを選べない。\n■相手のクリーチャーは、可能ならこのクリーチャーを攻撃する。\n■ワールド・ブレイカー",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/168200.png",
+      "releaseDate": 202111,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "350100",
+      "name": "宇宙刃 ニケ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light"
+      ],
+      "cost": 6,
+      "power": "6000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX"
+      ],
+      "rarity": "VR",
+      "set": "DMPP-20",
+      "text": "◇ブロッカー\n■W・ブレイカー\n■自分のシールドがブレイクされる時、かわりにこのクリーチャーを破壊する。\n■P'Sドロン・ゴー：破壊された時、自分の手札から光のエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《宇宙美刃 ミケランジェロ》としてバトルゾーンに出す。\n■自分の他の、名前に《宇宙》とあるエグザイル・クリーチャーはバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/350100.png",
+      "releaseDate": 202305,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "352900",
+      "name": "豚魔槍 ブータン",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness"
+      ],
+      "cost": 4,
+      "power": "6000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX"
+      ],
+      "rarity": "VR",
+      "set": "DMPP-20",
+      "text": "■W・ブレイカー\n■バトルする時、バトルの後、このクリーチャーを破壊する。\n■P'Sドロン・ゴー：破壊された時、自分の手札から闇のエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《地獄魔槍 ブリティッシュ》としてバトルゾーンに出す。\n■自分の他の、名前に《魔槍》とあるエグザイル・クリーチャーはバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/352900.png",
+      "releaseDate": 202305,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "354400",
+      "name": "武闘龍 カツドン",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire"
+      ],
+      "cost": 5,
+      "power": "2000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX"
+      ],
+      "rarity": "VIC",
+      "set": "DMPP-20",
+      "text": "■スピードアタッカー\n■パワーアタッカー+3000\n■アンタップしているクリーチャーを攻撃できる。\n■P'Sドロン・ゴーV：破壊された時、自分の手札からエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《武闘将軍 カツキング》としてバトルゾーンに出す。\n■自分の他の、名前に《武闘》とあるエグザイル・クリーチャーはバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/354400.png",
+      "releaseDate": 202305,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "355100",
+      "name": "双拳銃 ドラポン",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire"
+      ],
+      "cost": 4,
+      "power": "4000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX"
+      ],
+      "rarity": "R",
+      "set": "DMPP-20",
+      "text": "■攻撃する時、相手のパワー4000以下のクリーチャー1体を破壊する。\n■P'Sドロン・ゴー：破壊された時、自分の手札から火のエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《弐超拳銃 ドラゴ・リボルバー》としてバトルゾーンに出す。\n■自分の他の、名前に《拳銃》とあるエグザイル・クリーチャーはバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/355100.png",
+      "releaseDate": 202305,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "356000",
+      "name": "鼓笛獣 五朗丸",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "nature"
+      ],
+      "cost": 3,
+      "power": "4000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-20",
+      "text": "■ガードマン\n■P'Sドロン・ゴー：破壊された時、自分の手札から自然のエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《獣音鼓笛 グローバル》としてバトルゾーンに出す。\n■自分の他の、名前に《鼓笛》とあるエグザイル・クリーチャーはバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/356000.png",
+      "releaseDate": 202305,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "371000",
+      "name": "極上神プロディジー",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light",
+        "water"
+      ],
+      "cost": 5,
+      "power": "5000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPS-11",
+      "text": "■G・リンク（水闇/5）：《崇高神ケミカル》とリンクして《崇高極上神ケミカル・プロディジー》となる\n◇ブロッカー\n■自分のターン終了時、自分の「ブロッカー」を持つクリーチャーをすべてアンタップする。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/371000.png",
+      "releaseDate": 202306,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "371100",
+      "name": "崇高神ケミカル",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "water",
+        "darkness"
+      ],
+      "cost": 5,
+      "power": "5000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPS-11",
+      "text": "■G・リンク（光水/5）：《極上神プロディジー》とリンクして《崇高極上神ケミカル・プロディジー》となる\n■バトルゾーンに出た時、カードを2枚引き、自分の手札を1枚捨てる。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/371100.png",
+      "releaseDate": 202306,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "371200",
+      "name": "崇高極上神ケミカル・プロディジー",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light",
+        "water",
+        "darkness"
+      ],
+      "cost": 10,
+      "power": "10000",
+      "type": "ゴッド・クリーチャー",
+      "races": [
+        "ゴッド"
+      ],
+      "rarity": "R",
+      "set": "DMPS-11",
+      "text": "（《崇高神ケミカル》と《極上神プロディジー》がリンク中）\n◇ブロッカー\n■W・ブレイカー\n■攻撃する時、カードを2枚引き、自分の手札を1枚捨てる。\n■自分の「ブロッカー」を持つクリーチャーが破壊される時、かわりに手札に戻す。\n■自分のターン終了時、自分の「ブロッカー」を持つクリーチャーをすべてアンタップする。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/371200.png",
+      "releaseDate": 202306,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "382700",
+      "name": "奪太陽 サンサン",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light"
+      ],
+      "cost": 4,
+      "power": "3500",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX"
+      ],
+      "rarity": "UC",
+      "set": "DMPP-21",
+      "text": "■攻撃する時、自分の山札の上から1枚目をシールド化する。\n■P'Sドロン・ゴー：破壊された時、自分の手札から光のエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《極太陽 シャイニング・キンジ》としてバトルゾーンに出す。\n■自分の他の、名前に《サンサン》とあるエグザイル・クリーチャーをバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/382700.png",
+      "releaseDate": 202307,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "384000",
+      "name": "命水百仙 しずく",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "water"
+      ],
+      "cost": 3,
+      "power": "3000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX"
+      ],
+      "rarity": "UC",
+      "set": "DMPP-21",
+      "text": "■ブロックされない。\n■P'Sドロン・ゴー：破壊された時、自分の手札から水のエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《百仙閻魔 マジックマ瀧》としてバトルゾーンに出す。\n■自分の他の、名前に《しずく》とあるエグザイル・クリーチャーをバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/384000.png",
+      "releaseDate": 202307,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "385300",
+      "name": "閻魔王子 クーマン",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness"
+      ],
+      "cost": 4,
+      "power": "4000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX"
+      ],
+      "rarity": "UC",
+      "set": "DMPP-21",
+      "text": "■攻撃する時、相手は自身の手札を1枚捨てる。\n■P'Sドロン・ゴー：破壊された時、自分の手札から闇のエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《百仙閻魔 マジックマ瀧》としてバトルゾーンに出す。\n■自分の他の、名前に《クーマン》とあるエグザイル・クリーチャーをバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/385300.png",
+      "releaseDate": 202307,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "388200",
+      "name": "極太茸 菌次郎",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "nature"
+      ],
+      "cost": 3,
+      "power": "3000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX"
+      ],
+      "rarity": "UC",
+      "set": "DMPP-21",
+      "text": "■攻撃する時、自分の山札の上から1枚目をマナゾーンに置く。\n■P'Sドロン・ゴー：破壊された時、自分の手札から自然のエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《極太陽 シャイニング・キンジ》としてバトルゾーンに出す。\n■自分の他の、名前に《菌次郎》とあるエグザイル・クリーチャーをバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/388200.png",
+      "releaseDate": 202307,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "389900",
+      "name": "無敵 ドン・カツドン",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire",
+        "nature"
+      ],
+      "cost": 5,
+      "power": "2000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX"
+      ],
+      "rarity": "VR",
+      "set": "DMPP-21",
+      "text": "■パワーアタッカー+3000\n■バトルゾーンに出た時または攻撃する時、自分の山札の上から1枚目をマナゾーンに置く。\n■P'Sドロン・ゴー：破壊された時、自分の手札から火または自然のエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《無敵剣 カツキングMAX》としてバトルゾーンに出す。\n■自分の他の、名前に《無敵》とあるエグザイル・クリーチャーをバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/389900.png",
+      "releaseDate": 202307,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "390300",
+      "name": "暴剣坊 アラシ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "water",
+        "fire"
+      ],
+      "cost": 7,
+      "power": "6000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX"
+      ],
+      "rarity": "R",
+      "set": "DMPP-21",
+      "text": "■W・ブレイカー\n■バトルゾーンに出た時、自分の山札の上から3枚を墓地に置き、その後、その中から1枚を手札に戻す。それがエグザイル・クリーチャーであれば、そのターン、このクリーチャーは「スピードアタッカー」を得る。\n■P'Sドロン・ゴー：破壊された時、自分の手札から水または火のエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《暴剣王邪 ハリケーン》としてバトルゾーンに出す。\n■自分の他の、名前に《暴剣》とあるエグザイル・クリーチャーをバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/390300.png",
+      "releaseDate": 202307,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "391700",
+      "name": "神豚 ブータンPOP",
+      "game": "duel_masters_play",
+      "civilizations": [],
+      "cost": 4,
+      "power": "4000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX",
+        "オラクル"
+      ],
+      "rarity": "VIC",
+      "set": "DMPP-21",
+      "text": "■攻撃する時、自分の山札の上から3枚を見る。その中から1枚を公開してから自分の手札に加え、残りを墓地に置く。\n■P'Sドロン・ゴーV：破壊された時、自分の手札からエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《神豚槍 ブリティッシュROCK》としてバトルゾーンに出す。\n■自分の他の、名前に《神》とあるエグザイル・クリーチャーをバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/391700.png",
+      "releaseDate": 202307,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "391800",
+      "name": "神豚槍 ブリティッシュROCK",
+      "game": "duel_masters_play",
+      "civilizations": [],
+      "cost": 7,
+      "power": "6000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX",
+        "オラクル"
+      ],
+      "rarity": "VIC",
+      "set": "DMPP-21",
+      "text": "■W・ブレイカー\n■攻撃する時、自分の山札の上から3枚を見る。その中から1枚を公開してから自分の手札に加え、残りを墓地に置く。その後、自分の墓地にあるカードの枚数よりコストが小さい相手のクリーチャー1体を破壊する。\n■P'Sドロン・ゴーV：破壊された時、自分の手札からエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《神聖牙 UK パンク》としてバトルゾーンに出す。\n■自分の他の、名前に《神》とあるエグザイル・クリーチャーをバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/391800.png",
+      "releaseDate": 202307,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "806200",
+      "name": "超法剣 カツキング GANG",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire"
+      ],
+      "cost": 7,
+      "power": "8000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX"
+      ],
+      "rarity": "VIC",
+      "set": "DMPX-02",
+      "text": "■スピードアタッカー\n■W・ブレイカー\n■攻撃する時、相手のパワー4000以下のクリーチャー1体と、相手の「ブロッカー」を持つクリーチャー1体を破壊する。\n■P'Sドロン・ゴーV：破壊された時、自分の手札からエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《無法伝説 カツマスター》としてバトルゾーンに出す。\n■自分の他の、名前に《超法》とあるエグザイル・クリーチャーはバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/806200.png",
+      "releaseDate": 202507,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "806300",
+      "name": "超法 カツドンGO！",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire"
+      ],
+      "cost": 4,
+      "power": "2000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX"
+      ],
+      "rarity": "VIC",
+      "set": "DMPX-02",
+      "text": "■スピードアタッカー\n■相手のクリーチャーがバトルゾーンに出た時、このクリーチャーがタップしていたら、その2体をバトルさせる。\n■P'Sドロン・ゴーV：破壊された時、自分の手札からエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《超法剣 カツキング GANG》としてバトルゾーンに出す。\n■自分の他の、名前に《超法》とあるエグザイル・クリーチャーはバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/806300.png",
+      "releaseDate": 202507,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "810800",
+      "name": "威勇邪 アラシ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "water",
+        "fire"
+      ],
+      "cost": 5,
+      "power": "3000",
+      "type": "エグザイル・クリーチャー",
+      "races": [
+        "アウトレイジMAX"
+      ],
+      "rarity": "R",
+      "set": "DMPX-02",
+      "text": "■バトルゾーンに出た時、相手のパワー2000以下のクリーチャーをすべて破壊する。その後、カードを1枚引く。\n■P'Sドロン・ゴー：破壊された時、自分の手札から水または火のエグザイル・クリーチャー1枚を捨ててもよい。そうした場合、このクリーチャーを《鍛剣勇邪 ハリケーン》としてバトルゾーンに出す。\n■自分の他の、名前に《勇邪》とあるエグザイル・クリーチャーはバトルゾーンに出せない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/810800.png",
+      "releaseDate": 202507,
+      "official": {
+        "sp_rare_order": 200
+      },
+      "originType": "unclassified"
+    },
+    {
+      "id": "2241000",
+      "name": "羅月ボルシャック・NEX",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light",
+        "fire",
+        "nature"
+      ],
+      "cost": 5,
+      "power": "7000",
+      "type": "進化クリーチャー",
+      "races": [
+        "アーマード・ドラゴン",
+        "ルナティック"
+      ],
+      "rarity": "-",
+      "set": "DMPX-03",
+      "text": "■進化：ドラゴンまたはファイアー・バード\n■ルナティック進化（光火自然/7）：このクリーチャーを《神羅ボルシャック・ライジング・NEX》に究極進化させる。\n■W・ブレイカー\n■バトルゾーンに出た時、相手のパワー4000以下のクリーチャー1体を破壊する。その後、自分の山札の上から1枚目をマナゾーンに置く。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/2241000.png"
+    },
+    {
+      "id": "803800",
+      "name": "破獄の殲滅者ディアボロス Z",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness"
+      ],
+      "cost": 16,
+      "power": "18000",
+      "type": "進化クリーチャー",
+      "races": [
+        "デーモン・コマンド",
+        "ドラゴン・ゾンビ"
+      ],
+      "rarity": "VIC",
+      "set": "DMPX-02",
+      "text": "■進化：闇のクリーチャー\n■シンパシー：自分の墓地にあるカード\n■Q・ブレイカー\n■バトルゾーンに出た時、そのターン、相手のクリーチャーすべてのパワーを-5000する。\n■殲滅返霊4\n　【HR】相手は自身のクリーチャー1体または手札1枚を山札の一番下に置く。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/803800.png"
+    },
+    {
+      "id": "680800",
+      "name": "龍波弩級戦艦 エビデックス",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "water"
+      ],
+      "cost": 4,
+      "power": "7000",
+      "type": "クリーチャー",
+      "races": [
+        "クリスタル・コマンド・ドラゴン"
+      ],
+      "rarity": "SR",
+      "set": "DMPB-06",
+      "text": "■攻撃できない。\n■自分のターン開始時、自分の手札が8枚以下なら、カードを1枚引く。\n■自分がカードを引いた時、それがそのターン引く4枚目以降のカードであれば、このクリーチャーを《永久龍程式 Q.E.D.=X》に進化させる。（この進化は召喚として扱う）",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/680800.png"
+    },
+    {
+      "id": "627700",
+      "name": "羅月デス・フェニックス",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness",
+        "fire"
+      ],
+      "cost": 4,
+      "power": "5000",
+      "type": "進化クリーチャー",
+      "races": [
+        "フェニックス",
+        "ルナティック"
+      ],
+      "rarity": "SR",
+      "set": "DMPX-01",
+      "text": "■進化：闇または火のクリーチャー\n■ルナティック進化（闇火/6）：このクリーチャーを《暗黒神羅凰ゼロ・フェニックス》に究極進化させる。\n■バトルゾーンに出た時、相手のパワー3000以下のクリーチャー1体を破壊する。\n■相手のターン中にバトルゾーンを離れた時、相手のマナゾーンからランダムなカード1枚を墓地に置く。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/627700.png"
+    },
+    {
+      "id": "620200",
+      "name": "聖霊王アルカディアス",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light"
+      ],
+      "cost": 6,
+      "power": "12500",
+      "type": "進化クリーチャー",
+      "races": [
+        "エンジェル・コマンド"
+      ],
+      "rarity": "SR",
+      "set": "DMPX-01",
+      "text": "■進化：エンジェル・コマンド\n■T・ブレイカー\n■誰も光以外の呪文を唱えられない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/620200.png"
+    },
+    {
+      "id": "335800",
+      "name": "お目覚めメイ様",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "nature"
+      ],
+      "cost": 1,
+      "power": "1000",
+      "type": "クリーチャー",
+      "races": [
+        "ドリームメイト",
+        "ハンター"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-19",
+      "text": "■相手プレイヤーを攻撃してブロックされなかった時、自分のドリームメイトが7体あれば、自分はゲームに勝つ。2体以上あれば、その攻撃を中止し、このクリーチャーは《眠りの森のメイ様》になる。1体以下であれば、その攻撃を中止する。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/335800.png"
+    },
+    {
+      "id": "290700",
+      "name": "羅月キリコ",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "water"
+      ],
+      "cost": 5,
+      "power": "5000",
+      "type": "進化クリーチャー",
+      "races": [
+        "サイバーロード",
+        "オリジン",
+        "ルナティック"
+      ],
+      "rarity": "SR",
+      "set": "DMPB-03",
+      "text": "■進化－オリジンまたは水のクリーチャー\n■ルナティック進化（水/8）：このクリーチャーを《真実の神羅 プレミアム・キリコ・ムーン》に究極進化させる。\n■バトルゾーンに出た時、自分の山札からコスト4以下の呪文を探索し、1枚をコストを支払わずに唱える。その後、山札をシャッフルする。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/290700.png"
+    },
+    {
+      "id": "235200",
+      "name": "ゴウケンオー ～剣々轟々～",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire"
+      ],
+      "cost": 17,
+      "power": "16000",
+      "type": "進化クリーチャー",
+      "races": [
+        "フレイム・モンスター"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-15",
+      "text": "■進化－名前に《ケンゴウグレンオー》とあるクリーチャー\n■ソウルシフト\n◇タップスキル：相手の「ブロッカー」を持つクリーチャーをすべて破壊する。その後、《ケンゲキオージャ ～究極火焔～》に進化する。\n■T・ブレイカー",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/235200.png"
+    },
+    {
+      "id": "235300",
+      "name": "ケンゴウグレンオー ～天地鳴動～",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire"
+      ],
+      "cost": 10,
+      "power": "11000",
+      "type": "進化クリーチャー",
+      "races": [
+        "フレイム・モンスター"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-15",
+      "text": "■進化－名前に《ワンケングレンオー》とあるクリーチャー\n■ソウルシフト\n■W・ブレイカー\n◇タップスキル：相手のパワー2000以下のクリーチャーをすべて破壊する。その後、《ゴウケンオー ～剣々轟々～》に進化する。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/235300.png"
+    },
+    {
+      "id": "235400",
+      "name": "ワンケングレンオー ～月下咆哮～",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire"
+      ],
+      "cost": 5,
+      "power": "5000",
+      "type": "進化クリーチャー",
+      "races": [
+        "フレイム・モンスター"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-15",
+      "text": "■進化－名前に《ケングレンオー》とあるクリーチャーまたはモンスター\n◇タップスキル：《ケンゴウグレンオー ～天地鳴動～》に進化する。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/235400.png"
+    },
+    {
+      "id": "180100",
+      "name": "羅月サンダー",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "light"
+      ],
+      "cost": 5,
+      "power": "5500",
+      "type": "進化クリーチャー",
+      "races": [
+        "エンジェル・コマンド",
+        "ルナティック"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-12",
+      "text": "■進化－光のクリーチャー\n■ルナティック進化（光/10）：このクリーチャーを《神羅サンダー・ムーン》に究極進化させる。\n■バトルゾーンに出た時、自分の山札からコスト6以上の呪文を探索し、1枚を公開してから手札に加えてもよい。その後、山札をシャッフルする。\n■自分のコスト6以上の進化クリーチャーの召喚コストを3少なくする。ただし1より少なくならず、かつそのクリーチャーの持つ文明の数より少なくならない。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/180100.png"
+    },
+    {
+      "id": "181900",
+      "name": "羅月ブリザード",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "water"
+      ],
+      "cost": 4,
+      "power": "5000",
+      "type": "進化クリーチャー",
+      "races": [
+        "サイバー・コマンド",
+        "ルナティック"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-12",
+      "text": "■進化－水のクリーチャー\n■ルナティック進化（水/6）：このクリーチャーを《神羅ブリザード・ムーン》に究極進化させる。\n■攻撃する時、カードを1枚引く。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/181900.png"
+    },
+    {
+      "id": "183600",
+      "name": "羅月スカル",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "darkness"
+      ],
+      "cost": 5,
+      "power": "5000",
+      "type": "進化クリーチャー",
+      "races": [
+        "ダークロード",
+        "ルナティック"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-12",
+      "text": "■進化－闇のクリーチャー\n■ルナティック進化（闇/7）：このクリーチャーを《神羅スカル・ムーン》に究極進化させる。\n■バトルゾーンに出た時、自分の山札の上から3枚を墓地に置く。その後、自分の墓地から進化クリーチャーを探索し、1枚を手札に戻す。\n■破壊された時、相手のパワーが最も大きいクリーチャー1体を破壊する。（複数あるなら、ランダムに1体）",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/183600.png"
+    },
+    {
+      "id": "186800",
+      "name": "羅月トルネード",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "nature"
+      ],
+      "cost": 5,
+      "power": "5000",
+      "type": "進化クリーチャー",
+      "races": [
+        "ジャイアント",
+        "ルナティック"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-12",
+      "text": "■進化－自然のクリーチャー\n■ルナティック進化（自然/7）：このクリーチャーを《神羅トルネード・ムーン》に究極進化させる。\n■バトルゾーンに出た時、自分の山札の上から1枚目をマナゾーンに置く。その後、自分のマナゾーンからクリーチャーを探索し、1枚を手札に戻してもよい。\n■このクリーチャーがブロックされた時、相手のシールドを1つブレイクする。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/186800.png"
+    },
+    {
+      "id": "185300",
+      "name": "羅月サンライズ・NEX",
+      "game": "duel_masters_play",
+      "civilizations": [
+        "fire"
+      ],
+      "cost": 4,
+      "power": "5000",
+      "type": "進化クリーチャー",
+      "races": [
+        "アーマード・ドラゴン",
+        "ルナティック"
+      ],
+      "rarity": "SR",
+      "set": "DMPP-12",
+      "text": "■進化－ドラゴンまたはファイアー・バード\n■ルナティック進化（火/6）：このクリーチャーを《神羅ライジング・NEX》に究極進化させる。\n■バトルゾーンに出た時、自分の手札からファイアー・バード1枚を捨ててもよい。そうした場合、カードを2枚引く。\n■破壊された時、自分の墓地から進化でないファイアー・バードを探索し、1枚をバトルゾーンに出す。",
+      "image": "https://dmps.takaratomy.co.jp/card/img/card/185300.png"
+    }
+  ],
+  "groups": [
+    {
+      "parent": "「獅福」の頂 ライオネル・クローネ",
+      "kind": "outside",
+      "targets": [
+        {
+          "name": "「修羅」の頂 VAN・ベートーベン",
+          "cardId": "361400",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "「俺」の頂 ライオネル",
+          "cardId": "318700",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "「創世」の頂 セーブ・ザ・デイト",
+          "cardId": "2159000",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "「呪」の頂 サスペンス",
+          "cardId": "319000",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "「呪装」の頂 サスペンス・キュリオス",
+          "cardId": "2188000",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "「命」の頂 グレイテスト・グレート",
+          "cardId": "319100",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "「戦慄」の頂 ベートーベン",
+          "cardId": "338600",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "「智」の頂 レディオ・ローゼス",
+          "cardId": "318900",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "「武」の頂 マキシマム・ザ・マックス",
+          "cardId": "319300",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "「獅子」の頂 ライオネル・フィナーレ",
+          "cardId": "812700",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "「祝」の頂 ウェディング",
+          "cardId": "318800",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "「終焉」の頂 オーエン・ザ・ロード",
+          "cardId": "2154000",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "「誣」の頂 ウェディング・イノセンス",
+          "cardId": "686300",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "「逆相」の頂 オガヤード・スンラート",
+          "cardId": "2282000",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "「獅福」の頂 ライオネル・クローネ",
+          "cardId": "2244000",
+          "status": "unconfirmed"
+        }
+      ]
+    },
+    {
+      "parent": "アクア・クラウンルーペ",
+      "kind": "outside",
+      "targets": [
+        {
+          "name": "アクア・ガード",
+          "cardId": "1300",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "ケロヨン・カルテット",
+      "kind": "outside",
+      "targets": [
+        {
+          "name": "ケロヨン・カルテット",
+          "cardId": "810300",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "ジョリー・ザ・ジョニー",
+      "kind": "outside",
+      "targets": [
+        {
+          "name": "アリゾナ・ヘッドショット",
+          "cardId": null,
+          "status": "confirmed"
+        },
+        {
+          "name": "ジョジョジョ・ゼロショット",
+          "cardId": null,
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "創造神サガ",
+      "kind": "outside",
+      "targets": [
+        {
+          "name": "バイオレンス・ヘヴン",
+          "cardId": null,
+          "status": "confirmed"
+        },
+        {
+          "name": "ゴッド・サーガ",
+          "cardId": null,
+          "status": "confirmed"
+        },
+        {
+          "name": "ゴッド・ブリンガー",
+          "cardId": null,
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "神聖の精霊アルカ・キッド",
+      "kind": "outside",
+      "targets": [
+        {
+          "name": "ホーリー・スパーク",
+          "cardId": "7000",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "超開拓妖精アジサイ！",
+      "kind": "outside",
+      "targets": [
+        {
+          "name": "守護水龍 ハイドランジア",
+          "cardId": null,
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "超電星クリスタル・ドライランサー",
+      "kind": "outside",
+      "targets": [
+        {
+          "name": "アクア・ガード",
+          "cardId": "1300",
+          "status": "confirmed"
+        },
+        {
+          "name": "クリスタル・ツヴァイランサー",
+          "cardId": "81700",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "魔光大帝ネロ・グリフィスⅢ世",
+      "kind": "outside",
+      "targets": [
+        {
+          "name": "魔弾グローリー・フォート",
+          "cardId": null,
+          "status": "confirmed"
+        },
+        {
+          "name": "魔弾アルカディア・シード",
+          "cardId": null,
+          "status": "unconfirmed"
+        },
+        {
+          "name": "黄昏魔弾Knights of Arcadia",
+          "cardId": null,
+          "status": "unconfirmed"
+        },
+        {
+          "name": "光陣の使徒ムルムル",
+          "cardId": "120500",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔光王機デ・アシス公",
+          "cardId": "141400",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔刻の斬将オルゼキア",
+          "cardId": "102400",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔光騎聖ブラッディ・シャドウ",
+          "cardId": "155200",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔光死聖グレゴリアス",
+          "cardId": "175400",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "腐敗聖者ベガ",
+          "cardId": "125800",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "天雷の聖霊ユリウス",
+          "cardId": "150100",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "悪魔聖霊アウゼス",
+          "cardId": "66500",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "不滅の精霊パーフェクト・ギャラクシー",
+          "cardId": "140000",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔光大帝ネロ・グリフィス",
+          "cardId": "154600",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "聖鎧亜クイーン・アルカディアス",
+          "cardId": "125300",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "聖鎧亜キング・アルカディアス",
+          "cardId": "124500",
+          "status": "unconfirmed"
+        }
+      ]
+    },
+    {
+      "parent": "魔光大帝ネロ・グリフィス・ルドルフ",
+      "kind": "outside",
+      "targets": [
+        {
+          "name": "魔弾チェーン・スパーク",
+          "cardId": "141600",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾グローリー・ゲート",
+          "cardId": "150700",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾プラス・ワン",
+          "cardId": "140700",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾ネオン・ウィンド",
+          "cardId": "151800",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾オープン・ブレイン",
+          "cardId": "143100",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾ストリーム・サークル",
+          "cardId": "142700",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾ソウル・キャッチャー",
+          "cardId": "145000",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾デュアル・ザンジバル",
+          "cardId": "144500",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾バレット・バイス",
+          "cardId": "152400",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾アルカディア・エッグ",
+          "cardId": "152300",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾ロマノフ・ストライク",
+          "cardId": "144100",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾ゴッド・ジェノサイダー",
+          "cardId": "144400",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾バクレツ・ストライク",
+          "cardId": "166300",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾クリティカル・デストロイヤー",
+          "cardId": "165800",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "超銀河弾 HELL",
+          "cardId": "165100",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾パンダフル・ライフ",
+          "cardId": "167700",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾ネロ・ブラスト",
+          "cardId": "723200",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾ロマノフ・タイフーン",
+          "cardId": "221700",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "煉獄と魔弾の印",
+          "cardId": "239500",
+          "status": "unconfirmed"
+        },
+        {
+          "name": "魔弾ベター・トゥモロー",
+          "cardId": "239800",
+          "status": "unconfirmed"
+        }
+      ]
+    },
+    {
+      "parent": "炎地武神",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "炎武神バルザック",
+          "cardId": "104100",
+          "status": "confirmed"
+        },
+        {
+          "name": "地武神オルメガス",
+          "cardId": "105300",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "炎地武神バルザック・オルメガス",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "炎武神バルザック",
+          "cardId": "104100",
+          "status": "confirmed"
+        },
+        {
+          "name": "地武神オルメガス",
+          "cardId": "105300",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "金剛修羅王",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "金剛神ガナストラ",
+          "cardId": "100500",
+          "status": "confirmed"
+        },
+        {
+          "name": "修羅王ガラサラマ",
+          "cardId": "101700",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "金剛修羅王ガナストラ・ガラサラマ",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "金剛神ガナストラ",
+          "cardId": "100500",
+          "status": "confirmed"
+        },
+        {
+          "name": "修羅王ガラサラマ",
+          "cardId": "101700",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "邪道外道神",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "邪道神キキ",
+          "cardId": "101400",
+          "status": "confirmed"
+        },
+        {
+          "name": "外道神カイカイ",
+          "cardId": "102700",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "邪道外道神キキカイカイ",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "邪道神キキ",
+          "cardId": "101400",
+          "status": "confirmed"
+        },
+        {
+          "name": "外道神カイカイ",
+          "cardId": "102700",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "G・A・E",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "G・E・レオパルド",
+          "cardId": "105000",
+          "status": "confirmed"
+        },
+        {
+          "name": "G・A・ペガサス",
+          "cardId": "100200",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "G・A・E・ペガサス・レオパルド",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "G・E・レオパルド",
+          "cardId": "105000",
+          "status": "confirmed"
+        },
+        {
+          "name": "G・A・ペガサス",
+          "cardId": "100200",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "竜極神",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "竜極神ゲキ",
+          "cardId": "102500",
+          "status": "confirmed"
+        },
+        {
+          "name": "竜極神メツ",
+          "cardId": "103700",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "竜極神ゲキメツ",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "竜極神ゲキ",
+          "cardId": "102500",
+          "status": "confirmed"
+        },
+        {
+          "name": "竜極神メツ",
+          "cardId": "103700",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "烈流神",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "流神ウンギョウ",
+          "cardId": "111100",
+          "status": "confirmed"
+        },
+        {
+          "name": "烈神アギョウ",
+          "cardId": "113300",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "烈流神アギョウ・ウンギョウ",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "流神ウンギョウ",
+          "cardId": "111100",
+          "status": "confirmed"
+        },
+        {
+          "name": "烈神アギョウ",
+          "cardId": "113300",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "至高無上神",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "至高神オービタル",
+          "cardId": "126500",
+          "status": "confirmed"
+        },
+        {
+          "name": "無上神アンダーワールド",
+          "cardId": "126600",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "至高無上神オービタル・アンダーワールド",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "至高神オービタル",
+          "cardId": "126500",
+          "status": "confirmed"
+        },
+        {
+          "name": "無上神アンダーワールド",
+          "cardId": "126600",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "超絶究極神",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "究極神アク",
+          "cardId": "125000",
+          "status": "confirmed"
+        },
+        {
+          "name": "超絶神ゼン",
+          "cardId": "124900",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "超絶究極神ゼンアク",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "究極神アク",
+          "cardId": "125000",
+          "status": "confirmed"
+        },
+        {
+          "name": "超絶神ゼン",
+          "cardId": "124900",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "魔光神",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "魔光神ルドヴィカII世",
+          "cardId": "152100",
+          "status": "confirmed"
+        },
+        {
+          "name": "魔光神レオパルドII世",
+          "cardId": "150200",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "魔光神ルドヴィカ・レオパルドII世",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "魔光神ルドヴィカII世",
+          "cardId": "152100",
+          "status": "confirmed"
+        },
+        {
+          "name": "魔光神レオパルドII世",
+          "cardId": "150200",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "破壊龍神",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "龍神ヘヴィ",
+          "cardId": "163200",
+          "status": "confirmed"
+        },
+        {
+          "name": "破壊神デス",
+          "cardId": "168000",
+          "status": "confirmed"
+        },
+        {
+          "name": "龍神メタル",
+          "cardId": "164900",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "龍神ヘヴィ・メタル",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "龍神ヘヴィ",
+          "cardId": "163200",
+          "status": "confirmed"
+        },
+        {
+          "name": "龍神メタル",
+          "cardId": "164900",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "破壊龍神ヘヴィ・デス・メタル",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "龍神ヘヴィ",
+          "cardId": "163200",
+          "status": "confirmed"
+        },
+        {
+          "name": "破壊神デス",
+          "cardId": "168000",
+          "status": "confirmed"
+        },
+        {
+          "name": "龍神メタル",
+          "cardId": "164900",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "崇高極上神",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "崇高神ケミカル",
+          "cardId": "371100",
+          "status": "confirmed"
+        },
+        {
+          "name": "極上神プロディジー",
+          "cardId": "371000",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "崇高極上神ケミカル・プロディジー",
+      "kind": "god",
+      "targets": [
+        {
+          "name": "崇高神ケミカル",
+          "cardId": "371100",
+          "status": "confirmed"
+        },
+        {
+          "name": "極上神プロディジー",
+          "cardId": "371000",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "無法伝説 カツマスター",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "無法伝説 カツマスター",
+          "cardId": "806100",
+          "status": "confirmed"
+        },
+        {
+          "name": "超法剣 カツキング GANG",
+          "cardId": "806200",
+          "status": "confirmed"
+        },
+        {
+          "name": "超法 カツドンGO！",
+          "cardId": "806300",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "超法剣 カツキング GANG",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "無法伝説 カツマスター",
+          "cardId": "806100",
+          "status": "confirmed"
+        },
+        {
+          "name": "超法剣 カツキング GANG",
+          "cardId": "806200",
+          "status": "confirmed"
+        },
+        {
+          "name": "超法 カツドンGO！",
+          "cardId": "806300",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "超法 カツドンGO！",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "無法伝説 カツマスター",
+          "cardId": "806100",
+          "status": "confirmed"
+        },
+        {
+          "name": "超法剣 カツキング GANG",
+          "cardId": "806200",
+          "status": "confirmed"
+        },
+        {
+          "name": "超法 カツドンGO！",
+          "cardId": "806300",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "絶超合金 ロビンフッド",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "絶超合金 ロビンフッド",
+          "cardId": "351500",
+          "status": "confirmed"
+        },
+        {
+          "name": "超合金 ロビー",
+          "cardId": "351400",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "超合金 ロビー",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "絶超合金 ロビンフッド",
+          "cardId": "351500",
+          "status": "confirmed"
+        },
+        {
+          "name": "超合金 ロビー",
+          "cardId": "351400",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "鍛剣勇邪 ハリケーン",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "鍛剣勇邪 ハリケーン",
+          "cardId": "810700",
+          "status": "confirmed"
+        },
+        {
+          "name": "威勇邪 アラシ",
+          "cardId": "810800",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "威勇邪 アラシ",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "鍛剣勇邪 ハリケーン",
+          "cardId": "810700",
+          "status": "confirmed"
+        },
+        {
+          "name": "威勇邪 アラシ",
+          "cardId": "810800",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "神豚 ブータンPOP",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "神豚 ブータンPOP",
+          "cardId": "391700",
+          "status": "confirmed"
+        },
+        {
+          "name": "神豚槍 ブリティッシュROCK",
+          "cardId": "391800",
+          "status": "confirmed"
+        },
+        {
+          "name": "神聖牙 UK パンク",
+          "cardId": "391900",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "神豚槍 ブリティッシュROCK",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "神豚 ブータンPOP",
+          "cardId": "391700",
+          "status": "confirmed"
+        },
+        {
+          "name": "神豚槍 ブリティッシュROCK",
+          "cardId": "391800",
+          "status": "confirmed"
+        },
+        {
+          "name": "神聖牙 UK パンク",
+          "cardId": "391900",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "神聖牙 UK パンク",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "神豚 ブータンPOP",
+          "cardId": "391700",
+          "status": "confirmed"
+        },
+        {
+          "name": "神豚槍 ブリティッシュROCK",
+          "cardId": "391800",
+          "status": "confirmed"
+        },
+        {
+          "name": "神聖牙 UK パンク",
+          "cardId": "391900",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "無敵剣 カツキングMAX",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "無敵剣 カツキングMAX",
+          "cardId": "389800",
+          "status": "confirmed"
+        },
+        {
+          "name": "無敵 ドン・カツドン",
+          "cardId": "389900",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "無敵 ドン・カツドン",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "無敵剣 カツキングMAX",
+          "cardId": "389800",
+          "status": "confirmed"
+        },
+        {
+          "name": "無敵 ドン・カツドン",
+          "cardId": "389900",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "暴剣王邪 ハリケーン",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "暴剣王邪 ハリケーン",
+          "cardId": "390200",
+          "status": "confirmed"
+        },
+        {
+          "name": "暴剣坊 アラシ",
+          "cardId": "390300",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "暴剣坊 アラシ",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "暴剣王邪 ハリケーン",
+          "cardId": "390200",
+          "status": "confirmed"
+        },
+        {
+          "name": "暴剣坊 アラシ",
+          "cardId": "390300",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "友情集結 R・M・G",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "友情集結 R・M・G",
+          "cardId": "390600",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "奪太陽 サンサン",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "奪太陽 サンサン",
+          "cardId": "382700",
+          "status": "confirmed"
+        },
+        {
+          "name": "極太茸 菌次郎",
+          "cardId": "388200",
+          "status": "confirmed"
+        },
+        {
+          "name": "極太陽 シャイニング・キンジ",
+          "cardId": "390000",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "極太茸 菌次郎",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "奪太陽 サンサン",
+          "cardId": "382700",
+          "status": "confirmed"
+        },
+        {
+          "name": "極太茸 菌次郎",
+          "cardId": "388200",
+          "status": "confirmed"
+        },
+        {
+          "name": "極太陽 シャイニング・キンジ",
+          "cardId": "390000",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "極太陽 シャイニング・キンジ",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "奪太陽 サンサン",
+          "cardId": "382700",
+          "status": "confirmed"
+        },
+        {
+          "name": "極太茸 菌次郎",
+          "cardId": "388200",
+          "status": "confirmed"
+        },
+        {
+          "name": "極太陽 シャイニング・キンジ",
+          "cardId": "390000",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "命水百仙 しずく",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "命水百仙 しずく",
+          "cardId": "384000",
+          "status": "confirmed"
+        },
+        {
+          "name": "閻魔王子 クーマン",
+          "cardId": "385300",
+          "status": "confirmed"
+        },
+        {
+          "name": "百仙閻魔 マジックマ瀧",
+          "cardId": "390100",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "閻魔王子 クーマン",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "命水百仙 しずく",
+          "cardId": "384000",
+          "status": "confirmed"
+        },
+        {
+          "name": "閻魔王子 クーマン",
+          "cardId": "385300",
+          "status": "confirmed"
+        },
+        {
+          "name": "百仙閻魔 マジックマ瀧",
+          "cardId": "390100",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "百仙閻魔 マジックマ瀧",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "命水百仙 しずく",
+          "cardId": "384000",
+          "status": "confirmed"
+        },
+        {
+          "name": "閻魔王子 クーマン",
+          "cardId": "385300",
+          "status": "confirmed"
+        },
+        {
+          "name": "百仙閻魔 マジックマ瀧",
+          "cardId": "390100",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "武闘龍 カツドン",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "武闘龍 カツドン",
+          "cardId": "354400",
+          "status": "confirmed"
+        },
+        {
+          "name": "武闘将軍 カツキング",
+          "cardId": "354500",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "武闘将軍 カツキング",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "武闘龍 カツドン",
+          "cardId": "354400",
+          "status": "confirmed"
+        },
+        {
+          "name": "武闘将軍 カツキング",
+          "cardId": "354500",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "鼓笛獣 五朗丸",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "鼓笛獣 五朗丸",
+          "cardId": "356000",
+          "status": "confirmed"
+        },
+        {
+          "name": "獣音鼓笛 グローバル",
+          "cardId": "356100",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "獣音鼓笛 グローバル",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "鼓笛獣 五朗丸",
+          "cardId": "356000",
+          "status": "confirmed"
+        },
+        {
+          "name": "獣音鼓笛 グローバル",
+          "cardId": "356100",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "宇宙刃 ニケ",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "宇宙刃 ニケ",
+          "cardId": "350100",
+          "status": "confirmed"
+        },
+        {
+          "name": "宇宙美刃 ミケランジェロ",
+          "cardId": "350200",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "宇宙美刃 ミケランジェロ",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "宇宙刃 ニケ",
+          "cardId": "350100",
+          "status": "confirmed"
+        },
+        {
+          "name": "宇宙美刃 ミケランジェロ",
+          "cardId": "350200",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "豚魔槍 ブータン",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "豚魔槍 ブータン",
+          "cardId": "352900",
+          "status": "confirmed"
+        },
+        {
+          "name": "地獄魔槍 ブリティッシュ",
+          "cardId": "353000",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "地獄魔槍 ブリティッシュ",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "豚魔槍 ブータン",
+          "cardId": "352900",
+          "status": "confirmed"
+        },
+        {
+          "name": "地獄魔槍 ブリティッシュ",
+          "cardId": "353000",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "双拳銃 ドラポン",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "双拳銃 ドラポン",
+          "cardId": "355100",
+          "status": "confirmed"
+        },
+        {
+          "name": "弐超拳銃 ドラゴ・リボルバー",
+          "cardId": "355200",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "弐超拳銃 ドラゴ・リボルバー",
+      "kind": "forms",
+      "targets": [
+        {
+          "name": "双拳銃 ドラポン",
+          "cardId": "355100",
+          "status": "confirmed"
+        },
+        {
+          "name": "弐超拳銃 ドラゴ・リボルバー",
+          "cardId": "355200",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "神羅ボルシャック・ライジング・NEX",
+      "kind": "alternate",
+      "targets": [
+        {
+          "name": "羅月ボルシャック・NEX",
+          "cardId": "2241000",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "大獄の封殺ディアス Z",
+      "kind": "alternate",
+      "targets": [
+        {
+          "name": "破獄の殲滅者ディアボロス Z",
+          "cardId": "803800",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "永久龍程式 Q.E.D.=X",
+      "kind": "alternate",
+      "targets": [
+        {
+          "name": "龍波弩級戦艦 エビデックス",
+          "cardId": "680800",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "暗黒神羅凰ゼロ・フェニックス",
+      "kind": "alternate",
+      "targets": [
+        {
+          "name": "羅月デス・フェニックス",
+          "cardId": "627700",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "神聖の精霊アルカ・キッド",
+      "kind": "alternate",
+      "targets": [
+        {
+          "name": "聖霊王アルカディアス",
+          "cardId": "620200",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "眠りの森のメイ様",
+      "kind": "alternate",
+      "targets": [
+        {
+          "name": "お目覚めメイ様",
+          "cardId": "335800",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "真実の神羅 プレミアム・キリコ・ムーン",
+      "kind": "alternate",
+      "targets": [
+        {
+          "name": "羅月キリコ",
+          "cardId": "290700",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "ケンゲキオージャ ～究極火焔～",
+      "kind": "alternate",
+      "targets": [
+        {
+          "name": "ゴウケンオー ～剣々轟々～",
+          "cardId": "235200",
+          "status": "confirmed"
+        },
+        {
+          "name": "ケンゴウグレンオー ～天地鳴動～",
+          "cardId": "235300",
+          "status": "confirmed"
+        },
+        {
+          "name": "ワンケングレンオー ～月下咆哮～",
+          "cardId": "235400",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "神羅サンダー・ムーン",
+      "kind": "alternate",
+      "targets": [
+        {
+          "name": "羅月サンダー",
+          "cardId": "180100",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "神羅ブリザード・ムーン",
+      "kind": "alternate",
+      "targets": [
+        {
+          "name": "羅月ブリザード",
+          "cardId": "181900",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "神羅スカル・ムーン",
+      "kind": "alternate",
+      "targets": [
+        {
+          "name": "羅月スカル",
+          "cardId": "183600",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "神羅トルネード・ムーン",
+      "kind": "alternate",
+      "targets": [
+        {
+          "name": "羅月トルネード",
+          "cardId": "186800",
+          "status": "confirmed"
+        }
+      ]
+    },
+    {
+      "parent": "神羅ライジング・NEX",
+      "kind": "alternate",
+      "targets": [
+        {
+          "name": "羅月サンライズ・NEX",
+          "cardId": "185300",
+          "status": "confirmed"
+        }
+      ]
+    }
+  ]
+}
