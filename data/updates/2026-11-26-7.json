@@ -1,0 +1,741 @@
+[
+  {
+    "id": "80300",
+    "name": "インビンシブル・オーラ",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "light"
+    ],
+    "cost": 13,
+    "power": null,
+    "type": "spell",
+    "races": [],
+    "rarity": "VR",
+    "set": "DMPP-06",
+    "releaseDate": 202010,
+    "text": "■自分のマナゾーンのカードがすべて光なら、唱えるコストを6少なくする。\n■自分の山札の上から3枚をシールド化する。\n■次の自分のターン開始時まで、自分に次の能力を与える。\n　▶自分の手札に加える自分のシールドカードすべてに「S・トリガー」を与える。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/80300.png",
+    "official": {
+      "card_id": 80300,
+      "base_id": 80300,
+      "series_title": "超獣の転生",
+      "culture": "光",
+      "card_type": "呪文",
+      "power_disp": "-",
+      "power_attacker": "",
+      "keywords": "シールド化",
+      "flavor_text": "文明の頂点となる存在の激突に、超兵器「インビンシブル」の発動に、たちまち崩壊していく世界。光文明は全生命を護るべく、インビンシブル・オーラを発動した。",
+      "special_rarity": "ノーマル",
+      "rare_order": 500,
+      "sp_rare_order": 200,
+      "release_date": 202010
+    },
+    "originType": "modified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2883130",
+    "name": "ウェディング・ゲート",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "darkness"
+    ],
+    "cost": 6,
+    "power": null,
+    "type": "spell",
+    "races": [],
+    "rarity": "R",
+    "set": "プライズ",
+    "releaseDate": 202611,
+    "text": "◇S・トリガー\n■自分の手札から光でも進化でもないエンジェル・コマンドを2枚までバトルゾーンに出す。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2883130.png",
+    "official": {
+      "card_id": 2883130,
+      "base_id": 333100,
+      "series_title": "プライズ",
+      "culture": "闇",
+      "card_type": "呪文",
+      "power_disp": "-",
+      "power_attacker": "",
+      "keywords": "S・トリガー",
+      "flavor_text": "ウェディングがこじ開けた門が、クリーチャー世界のバランスを破壊し続ける。",
+      "special_rarity": "ノーマル",
+      "rare_order": 400,
+      "sp_rare_order": 200,
+      "release_date": 202611
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2880130",
+    "name": "コンダマ/魂フエミドロ",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "nature"
+    ],
+    "cost": 4,
+    "power": 3000,
+    "type": "ツインパクト",
+    "races": [],
+    "rarity": "R",
+    "set": "プライズ",
+    "releaseDate": 202611,
+    "text": "■自分のツインパクトカードをマナゾーンに置いた時、使用可能マナを同じ数回復する。\n【LINE】\n■自分の山札の上から1枚目をマナゾーンに置く。それがツインパクトカードなら、自分の山札の上からもう1枚、マナゾーンに置く。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2880130.png",
+    "official": {
+      "card_id": 2880130,
+      "base_id": 2013000,
+      "series_title": "プライズ",
+      "culture": "自然",
+      "card_type": "ツインパクト",
+      "power_disp": "3000",
+      "power_attacker": "",
+      "keywords": "",
+      "flavor_text": "バラギアラは星の怒り。すべてを破壊するまで止まらない。",
+      "special_rarity": "ノーマル",
+      "rare_order": 400,
+      "sp_rare_order": 200,
+      "release_date": 202611
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2619130",
+    "name": "メンデルスゾーン",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "fire",
+      "nature"
+    ],
+    "cost": 2,
+    "power": null,
+    "type": "spell",
+    "races": [],
+    "rarity": "R",
+    "set": "プライズ",
+    "releaseDate": 202611,
+    "text": "■自分の山札の上から2枚を公開する。その中のドラゴンをすべてマナゾーンに置き、それ以外のカードを墓地に置く。（ただし、使用可能マナは増えない）",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2619130.png",
+    "official": {
+      "card_id": 2619130,
+      "base_id": 337800,
+      "series_title": "プライズ",
+      "culture": "火自然",
+      "card_type": "呪文",
+      "power_disp": "-",
+      "power_attacker": "",
+      "keywords": "",
+      "flavor_text": "電脳カードと共にリアルの決闘（プレイス）へ！",
+      "special_rarity": "ノーマル",
+      "rare_order": 400,
+      "sp_rare_order": 200,
+      "release_date": 202611
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2618130",
+    "name": "桜風妖精ステップル",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "nature"
+    ],
+    "cost": 2,
+    "power": 1000,
+    "type": "creature",
+    "races": [
+      "スノーフェアリー"
+    ],
+    "rarity": "UC",
+    "set": "プライズ",
+    "releaseDate": 202611,
+    "text": "■バトルゾーンに出た時、自分の山札の上から1枚目をマナゾーンに置く。\n■破壊された時、自分のマナゾーンからカード1枚を墓地に置く。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2618130.png",
+    "official": {
+      "card_id": 2618130,
+      "base_id": 808400,
+      "series_title": "プライズ",
+      "culture": "自然",
+      "card_type": "クリーチャー",
+      "power_disp": "1000",
+      "power_attacker": "",
+      "keywords": "",
+      "flavor_text": "みんなと来られて、本当によかったな――リゼ・ヘルエスタ",
+      "special_rarity": "ノーマル",
+      "rare_order": 300,
+      "sp_rare_order": 200,
+      "release_date": 202611
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2604130",
+    "name": "“轟轟轟”ブランド",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "fire"
+    ],
+    "cost": 7,
+    "power": 9000,
+    "type": "creature",
+    "races": [
+      "ビートジョッキー"
+    ],
+    "rarity": "MAS",
+    "set": "プライズ",
+    "releaseDate": 202610,
+    "text": "■マスターG・G・G：このクリーチャーを召喚する時、自分の手札がこのカードだけなら、コストを支払わずに召喚する。\n■スピードアタッカー\n■W・ブレイカー\n■バトルゾーンに出た時、自分のマナゾーンに火のカードがあれば、カードを1枚引く。その後、自分の手札を好きな枚数捨ててもよい。こうして捨てた手札1枚につき、相手のパワー6000以下のクリーチャー1体を破壊する。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2604130.png",
+    "official": {
+      "card_id": 2604130,
+      "base_id": 1732000,
+      "series_title": "プライズ",
+      "culture": "火",
+      "card_type": "クリーチャー",
+      "power_disp": "9000",
+      "power_attacker": "",
+      "keywords": "マスターG・G・G,スピードアタッカー,W・ブレイカー",
+      "flavor_text": "右手が光ってんだよなぁ。――石神のぞみ",
+      "special_rarity": "ノーマル",
+      "rare_order": 1100,
+      "sp_rare_order": 200,
+      "release_date": 202610
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2601130",
+    "name": "オラマッハ・ザ・ジョニー",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "nature"
+    ],
+    "cost": 8,
+    "power": 13000,
+    "type": "creature",
+    "races": [
+      "ジョーカーズ"
+    ],
+    "rarity": "MAS",
+    "set": "プライズ",
+    "releaseDate": 202610,
+    "text": "■T・ブレイカー\n■マスター・マッハファイター\n■バトルゾーンに出た時、自分のマナゾーンからカード1枚を手札に戻してもよい。そうした場合、そのターン、このクリーチャーのパワーを+5000する。\n■相手が呪文を唱える時、かわりにその呪文以上のコストを持つジョーカーズ1枚を自分の手札から捨て、その呪文を墓地に置いてもよい。（こうして墓地に置かれた呪文は唱えたことにならない）",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2601130.png",
+    "official": {
+      "card_id": 2601130,
+      "base_id": 2536000,
+      "series_title": "プライズ",
+      "culture": "自然",
+      "card_type": "クリーチャー",
+      "power_disp": "13000",
+      "power_attacker": "+",
+      "keywords": "T・ブレイカー,マスター・マッハファイター",
+      "flavor_text": "覚えたこと全部やったらぁー！――舞元啓介",
+      "special_rarity": "ノーマル",
+      "rare_order": 1100,
+      "sp_rare_order": 200,
+      "release_date": 202610
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2600130",
+    "name": "ソーナンデス",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "nature"
+    ],
+    "cost": 6,
+    "power": 7000,
+    "type": "creature",
+    "races": [
+      "ジョーカーズ"
+    ],
+    "rarity": "VR",
+    "set": "プライズ",
+    "releaseDate": 202610,
+    "text": "■マッハファイター\n■Jチェンジ8\n■W・ブレイカー\n■バトルゾーンを離れた時、自分の手札を1枚捨ててもよい。そうした場合、自分のマナゾーンからクリーチャー1枚を手札に戻す。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2600130.png",
+    "official": {
+      "card_id": 2600130,
+      "base_id": 2009000,
+      "series_title": "プライズ",
+      "culture": "自然",
+      "card_type": "クリーチャー",
+      "power_disp": "7000",
+      "power_attacker": "",
+      "keywords": "マッハファイター,Jチェンジ,W・ブレイカー",
+      "flavor_text": "戦いの海に、果てはないんです！ーーソーナンデス",
+      "special_rarity": "ノーマル",
+      "rare_order": 500,
+      "sp_rare_order": 200,
+      "release_date": 202610
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2606130",
+    "name": "ケンザン・チャージャー",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "light"
+    ],
+    "cost": 3,
+    "power": null,
+    "type": "spell",
+    "races": [],
+    "rarity": "UC",
+    "set": "プライズ",
+    "releaseDate": 202610,
+    "text": "■自分の山札の上から1枚目を公開する。それが呪文か、「ブロッカー」を持つクリーチャーなら、自分の手札に加える。それ以外なら、山札の下に置く。\n■チャージャー",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2606130.png",
+    "official": {
+      "card_id": 2606130,
+      "base_id": 2167000,
+      "series_title": "プライズ",
+      "culture": "光",
+      "card_type": "呪文",
+      "power_disp": "-",
+      "power_attacker": "",
+      "keywords": "チャージャー",
+      "flavor_text": "「わたしたちの時間」「始めよっか！」――鈴原るる&リゼ・ヘルエスタ",
+      "special_rarity": "ノーマル",
+      "rare_order": 300,
+      "sp_rare_order": 200,
+      "release_date": 202610
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2611130",
+    "name": "涼夏妖精カクラン",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "water"
+    ],
+    "cost": 2,
+    "power": 2000,
+    "type": "creature",
+    "races": [
+      "スノーフェアリー",
+      "オリジン"
+    ],
+    "rarity": "UC",
+    "set": "プライズ",
+    "releaseDate": 202610,
+    "text": "◇ブロッカー\n■攻撃できない。\n■スノーフェアリーでもオリジンでもないクリーチャーは、バトルゾーンに出たターン、攻撃できない。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2611130.png",
+    "official": {
+      "card_id": 2611130,
+      "base_id": 218200,
+      "series_title": "プライズ",
+      "culture": "水",
+      "card_type": "クリーチャー",
+      "power_disp": "2000",
+      "power_attacker": "",
+      "keywords": "ブロッカー",
+      "flavor_text": "ぴっぴー！止まってくださいね～！――栞葉るり",
+      "special_rarity": "ノーマル",
+      "rare_order": 300,
+      "sp_rare_order": 200,
+      "release_date": 202610
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2607130",
+    "name": "タイク・タイソンズ",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "nature"
+    ],
+    "cost": 2,
+    "power": 1000,
+    "type": "creature",
+    "races": [
+      "ジョーカーズ"
+    ],
+    "rarity": "UC",
+    "set": "プライズ",
+    "releaseDate": 202610,
+    "text": "■Jチェンジ4\n■バトルゾーンを離れた時、自分の山札の上から1枚目をマナゾーンに置く。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2607130.png",
+    "official": {
+      "card_id": 2607130,
+      "base_id": 2026000,
+      "series_title": "プライズ",
+      "culture": "自然",
+      "card_type": "クリーチャー",
+      "power_disp": "1000",
+      "power_attacker": "",
+      "keywords": "Jチェンジ",
+      "flavor_text": "いけいけいけーっ！――舞元啓介",
+      "special_rarity": "ノーマル",
+      "rare_order": 300,
+      "sp_rare_order": 200,
+      "release_date": 202610
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2608130",
+    "name": "爆進オリジナル・チューニング",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "light",
+      "water"
+    ],
+    "cost": 4,
+    "power": null,
+    "type": "spell",
+    "races": [],
+    "rarity": "UC",
+    "set": "プライズ",
+    "releaseDate": 202610,
+    "text": "◇S・トリガー\n■次のうちいずれか1つを選ぶ。\n　▶相手のコスト6以下のクリーチャー1体をシールド化する。　\n　▶カードを2枚引く。\n■爆進ダブル",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2608130.png",
+    "official": {
+      "card_id": 2608130,
+      "base_id": 2268000,
+      "series_title": "プライズ",
+      "culture": "光水",
+      "card_type": "呪文",
+      "power_disp": "-",
+      "power_attacker": "",
+      "keywords": "S・トリガー,シールド化,爆進ダブル",
+      "flavor_text": "デュエマ中は焦らない！走らない！振り向かない！――リゼ・ヘルエスタ",
+      "special_rarity": "ノーマル",
+      "rare_order": 300,
+      "sp_rare_order": 200,
+      "release_date": 202610
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2595130",
+    "name": "堕呪 カージグリ",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "water"
+    ],
+    "cost": 3,
+    "power": null,
+    "type": "spell",
+    "races": [
+      "魔導具"
+    ],
+    "rarity": "C",
+    "set": "プライズ",
+    "releaseDate": 202610,
+    "text": "◇S・トリガー\n■相手のクリーチャー1体を手札に戻す。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2595130.png",
+    "official": {
+      "card_id": 2595130,
+      "base_id": 1947000,
+      "series_title": "プライズ",
+      "culture": "水",
+      "card_type": "呪文",
+      "power_disp": "-",
+      "power_attacker": "",
+      "keywords": "S・トリガー",
+      "flavor_text": "世界の終わりが始まる。",
+      "special_rarity": "ノーマル",
+      "rare_order": 200,
+      "sp_rare_order": 200,
+      "release_date": 202610
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2610130",
+    "name": "凶戦士ブレイズ・クロー",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "fire"
+    ],
+    "cost": 1,
+    "power": 1000,
+    "type": "creature",
+    "races": [
+      "ドラゴノイド"
+    ],
+    "rarity": "C",
+    "set": "プライズ",
+    "releaseDate": 202610,
+    "text": "■可能なら毎ターン攻撃する。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2610130.png",
+    "official": {
+      "card_id": 2610130,
+      "base_id": 22300,
+      "series_title": "プライズ",
+      "culture": "火",
+      "card_type": "クリーチャー",
+      "power_disp": "1000",
+      "power_attacker": "",
+      "keywords": "",
+      "flavor_text": "スーパーカリスマインフルエンサー登場～！――石神のぞみ",
+      "special_rarity": "ノーマル",
+      "rare_order": 200,
+      "sp_rare_order": 200,
+      "release_date": 202610
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2609130",
+    "name": "チョイワ・ルピア",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "darkness",
+      "fire"
+    ],
+    "cost": 2,
+    "power": 2000,
+    "type": "creature",
+    "races": [
+      "ファイアー・バード"
+    ],
+    "rarity": "C",
+    "set": "プライズ",
+    "releaseDate": 202610,
+    "text": "■バトルゾーンに出た時、自分の山札の上から2枚を墓地に置く。\n■自分のドラゴンの召喚コストを1少なくする。ただし、0以下にならない。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2609130.png",
+    "official": {
+      "card_id": 2609130,
+      "base_id": 2272000,
+      "series_title": "プライズ",
+      "culture": "闇火",
+      "card_type": "クリーチャー",
+      "power_disp": "2000",
+      "power_attacker": "",
+      "keywords": "",
+      "flavor_text": "勝利は力ずくで奪い取らなきゃ。――鈴原るる",
+      "special_rarity": "ノーマル",
+      "rare_order": 200,
+      "sp_rare_order": 200,
+      "release_date": 202610
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2602130",
+    "name": "神歌の天后 ヘブンズ・キリコ",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "light",
+      "water"
+    ],
+    "cost": 8,
+    "power": 13000,
+    "type": "NEOクリーチャー",
+    "races": [
+      "サイバーロード",
+      "オリジン"
+    ],
+    "rarity": "PEX",
+    "set": "プライズ",
+    "releaseDate": 202610,
+    "text": "■NEO進化：オリジンまたは「ブロッカー」を持つクリーチャー\n◇ブロッカー\n■T・ブレイカー\n■攻撃する時、次の能力を1回行ってもよい。(自分の《神歌の天后 ヘブンズ・キリコ》のこの効果は、各ターン中1回のみ発動する。)\n　▶自分の他の、進化でないクリーチャーをすべて手札に戻す。その後、自分の山札の上から6枚を見て、「ブロッカー」を持つ進化でないクリーチャーを3枚までバトルゾーンに出す。残りをランダムな順番で山札の下に置く。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2602130.png",
+    "official": {
+      "card_id": 2602130,
+      "base_id": 2243000,
+      "series_title": "プライズ",
+      "culture": "光水",
+      "card_type": "NEOクリーチャー",
+      "power_disp": "13000",
+      "power_attacker": "",
+      "keywords": "NEO進化,ブロッカー,T・ブレイカー",
+      "flavor_text": "ヘルエスタセイバーの錆にしてあげますよ！――リゼ・ヘルエスタ",
+      "special_rarity": "ノーマル",
+      "rare_order": 100,
+      "sp_rare_order": 200,
+      "release_date": 202610
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2603130",
+    "name": "超神星HADES・ドラゲリオン",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "water",
+      "darkness",
+      "fire"
+    ],
+    "cost": 13,
+    "power": 13000,
+    "type": "evolution_creature",
+    "races": [
+      "ドラゴン・ゾンビ",
+      "フェニックス"
+    ],
+    "rarity": "PEX",
+    "set": "プライズ",
+    "releaseDate": 202610,
+    "text": "■シンパシー：自分の墓地のクリーチャー\n■墓地進化GV：自分の墓地のドラゴン3枚\n■T・ブレイカー\n■バトルゾーンに出た時、そのターン、相手のクリーチャーすべてのパワーを-9000する。\n■メテオバーン1：相手のクリーチャーがバトルゾーンに出た時、このクリーチャーの下にあるカード1枚を墓地に置いてもよい。そうした場合、そのターン、そのクリーチャーのパワーを-9000する。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2603130.png",
+    "official": {
+      "card_id": 2603130,
+      "base_id": 2242000,
+      "series_title": "プライズ",
+      "culture": "水闇火",
+      "card_type": "進化クリーチャー",
+      "power_disp": "13000",
+      "power_attacker": "",
+      "keywords": "シンパシー,墓地進化GV,T・ブレイカー,メテオバーン",
+      "flavor_text": "狙うなら首だよね。――鈴原るる",
+      "special_rarity": "ノーマル",
+      "rare_order": 100,
+      "sp_rare_order": 200,
+      "release_date": 202610
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "2605130",
+    "name": "超開拓妖精アジサイ！",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "light",
+      "water",
+      "nature"
+    ],
+    "cost": 6,
+    "power": 7000,
+    "type": "creature",
+    "races": [
+      "スノーフェアリー"
+    ],
+    "rarity": "PEX",
+    "set": "プライズ",
+    "releaseDate": 202610,
+    "text": "◇ブロッカー\n■W・ブレイカー\n■バトルゾーンに出た時、自分の山札の上から3枚を見る。その中から1枚をシールド化し、1枚を手札に加え、残りのカードをマナゾーンに置く。その後、自分のマナゾーンにあるスノーフェアリー4枚につき、ゲーム外から《守護水龍 ハイドランジア》1枚をバトルゾーンに出す。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/2605130.png",
+    "official": {
+      "card_id": 2605130,
+      "base_id": 2245000,
+      "series_title": "プライズ",
+      "culture": "光水自然",
+      "card_type": "クリーチャー",
+      "power_disp": "7000",
+      "power_attacker": "",
+      "keywords": "ブロッカー,W・ブレイカー,シールド化",
+      "flavor_text": "社会の犬です！――栞葉るり",
+      "special_rarity": "ノーマル",
+      "rare_order": 100,
+      "sp_rare_order": 200,
+      "release_date": 202610
+    },
+    "originType": "unclassified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "222100",
+    "name": "ボルシャック・NEX",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "fire"
+    ],
+    "cost": 6,
+    "power": 6000,
+    "type": "creature",
+    "races": [
+      "アーマード・ドラゴン"
+    ],
+    "rarity": "SR",
+    "set": "プライズ",
+    "releaseDate": 202206,
+    "text": "■パワード・ブレイカー\n■バトルゾーンに出た時、自分の山札から名前に《ルピア》とあるカードを超探索し、1枚をバトルゾーンに出してもよい。その後、山札をシャッフルする。\n■攻撃中、自分の墓地にあるファイアー・バード1枚につきパワーを+2000する。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/222100.png",
+    "official": {
+      "card_id": 222100,
+      "base_id": 185100,
+      "series_title": "プライズ",
+      "culture": "火",
+      "card_type": "クリーチャー",
+      "power_disp": "6000",
+      "power_attacker": "+",
+      "keywords": "超探索,パワード・ブレイカー",
+      "flavor_text": "絆の勝利だ！――ボルシャック・NEX",
+      "special_rarity": "ノーマル",
+      "rare_order": 600,
+      "sp_rare_order": 200,
+      "release_date": 202206
+    },
+    "originType": "modified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "115300",
+    "name": "連珠の精霊アガピトス",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "light"
+    ],
+    "cost": 6,
+    "power": 6000,
+    "type": "creature",
+    "races": [
+      "エンジェル・コマンド"
+    ],
+    "rarity": "SR",
+    "set": "プライズ",
+    "releaseDate": 202103,
+    "text": "◇ブロッカー\n■W・ブレイカー\n■バトルゾーンに出た時、自分の山札から光のコスト3以下のクリーチャーを探索し、1枚をバトルゾーンに出す。その後、山札をシャッフルする。\n■自分の光のコスト3以下のクリーチャーがバトルゾーンに出た時、相手のパワーの最も小さい、アンタップしているクリーチャー1体をタップする。（複数あるなら、その中からランダムに1体）",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/115300.png",
+    "official": {
+      "card_id": 115300,
+      "base_id": 100000,
+      "series_title": "プライズ",
+      "culture": "光",
+      "card_type": "クリーチャー",
+      "power_disp": "6000",
+      "power_attacker": "",
+      "keywords": "ブロッカー,W・ブレイカー,探索",
+      "flavor_text": "みんな、力を貸して！――タマ",
+      "special_rarity": "ノーマル",
+      "rare_order": 600,
+      "sp_rare_order": 200,
+      "release_date": 202103
+    },
+    "originType": "same",
+    "originNote": "",
+    "artReplacement": "undecided"
+  }
+]
