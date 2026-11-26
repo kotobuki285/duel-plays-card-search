@@ -1,0 +1,746 @@
+[
+  {
+    "id": "630800",
+    "name": "透明妖精リリン",
+    "game": "duel_masters_play",
+    "civilizations": [],
+    "cost": 2,
+    "power": 2000,
+    "type": "creature",
+    "races": [
+      "オラクル",
+      "スノーフェアリー"
+    ],
+    "rarity": "C",
+    "set": "DMPX-01",
+    "releaseDate": 202407,
+    "text": "■自分の無色のクリーチャーの召喚コストを1少なくする。ただし、0以下にならない。\n■自分のマナゾーンにあるスノーフェアリーはすべての文明を持つ。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/630800.png",
+    "official": {
+      "card_id": 630800,
+      "base_id": 392600,
+      "series_title": "PLAY'S CHRONICLE PACK",
+      "culture": "無色",
+      "card_type": "クリーチャー",
+      "power_disp": "2000",
+      "power_attacker": "",
+      "keywords": "",
+      "flavor_text": "「呪」の神の力は永遠なのヨ！",
+      "special_rarity": "ノーマル",
+      "rare_order": 200,
+      "sp_rare_order": 200,
+      "release_date": 202407
+    },
+    "originType": "original",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "561900",
+    "name": "究極・チャージャー",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "light"
+    ],
+    "cost": 3,
+    "power": null,
+    "type": "spell",
+    "races": [],
+    "rarity": "C",
+    "set": "DMPP-25",
+    "releaseDate": 202403,
+    "text": "■自分の山札の上から1枚目を表向きにする。そのカードが光のコスト9のカードなら、手札に加える。それ以外なら、山札の下に置く。\n■チャージャー",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/561900.png",
+    "official": {
+      "card_id": 561900,
+      "base_id": 561900,
+      "series_title": "轟炎革命",
+      "culture": "光",
+      "card_type": "呪文",
+      "power_disp": "-",
+      "power_attacker": "",
+      "keywords": "チャージャー",
+      "flavor_text": "G.O.D.を目指し、その存在の降臨を待つ。それが九極の侵略者たちの目的だった。",
+      "special_rarity": "ノーマル",
+      "rare_order": 200,
+      "sp_rare_order": 200,
+      "release_date": 202403
+    },
+    "originType": "original",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "392600",
+    "name": "透明妖精リリン",
+    "game": "duel_masters_play",
+    "civilizations": [],
+    "cost": 2,
+    "power": 2000,
+    "type": "creature",
+    "races": [
+      "オラクル",
+      "スノーフェアリー"
+    ],
+    "rarity": "C",
+    "set": "DMPP-21",
+    "releaseDate": 202307,
+    "text": "■自分の無色のクリーチャーの召喚コストを1少なくする。ただし、0以下にならない。\n■自分のマナゾーンにあるスノーフェアリーはすべての文明を持つ。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/392600.png",
+    "official": {
+      "card_id": 392600,
+      "base_id": 392600,
+      "series_title": "無法神聖紀",
+      "culture": "無色",
+      "card_type": "クリーチャー",
+      "power_disp": "2000",
+      "power_attacker": "",
+      "keywords": "",
+      "flavor_text": "ゼロは何者にも染まっていない力。だからこそ全ての力を得る可能性があるの・・・。そう、感情の力すらもね。 ――透明妖精リリン",
+      "special_rarity": "ノーマル",
+      "rare_order": 200,
+      "sp_rare_order": 200,
+      "release_date": 202307
+    },
+    "originType": "original",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "351800",
+    "name": "電脳の女王 アリス",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "water"
+    ],
+    "cost": 3,
+    "power": 3000,
+    "type": "creature",
+    "races": [
+      "アウトレイジMAX"
+    ],
+    "rarity": "R",
+    "set": "DMPP-20",
+    "releaseDate": 202305,
+    "text": "■バトルゾーンに出た時、自分の山札の上から3枚を見る。その中から1枚を手札に加え、1枚を墓地に置き、残りを山札の上に置く。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/351800.png",
+    "official": {
+      "card_id": 351800,
+      "base_id": 351800,
+      "series_title": "神人類光臨",
+      "culture": "水",
+      "card_type": "クリーチャー",
+      "power_disp": "3000",
+      "power_attacker": "",
+      "keywords": "",
+      "flavor_text": "ハッキング成功よ。後は任せるわ、テスタ。――電脳の女王 アリス",
+      "special_rarity": "ノーマル",
+      "rare_order": 400,
+      "sp_rare_order": 200,
+      "release_date": 202305
+    },
+    "originType": "original",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "333300",
+    "name": "祝儀の堕天チャーマジュン",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "darkness"
+    ],
+    "cost": 4,
+    "power": 3000,
+    "type": "creature",
+    "races": [
+      "エンジェル・コマンド",
+      "アンノイズ"
+    ],
+    "rarity": "UC",
+    "set": "DMPP-19",
+    "releaseDate": 202303,
+    "text": "■バトルゾーンに出た時、自分のシールド1つを墓地に置いてもよい。そうした場合、カードを2枚引く。\n■自分の光以外のエンジェル・コマンドの召喚コストを1、アンノウンの召喚コストを1少なくする。ただし、0以下にならない。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/333300.png",
+    "official": {
+      "card_id": 333300,
+      "base_id": 333300,
+      "series_title": "希望の双子",
+      "culture": "闇",
+      "card_type": "クリーチャー",
+      "power_disp": "3000",
+      "power_attacker": "",
+      "keywords": "",
+      "flavor_text": "ライオネルとウェディングの戦いは文字通りの死闘となったが、最後に立っていたのはライオネルだった。戦いを終えたその場には、ギロチンだけが残されていた。",
+      "special_rarity": "ノーマル",
+      "rare_order": 300,
+      "sp_rare_order": 200,
+      "release_date": 202303
+    },
+    "originType": "original",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "185120",
+    "name": "ボルシャック・NEX",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "fire"
+    ],
+    "cost": 6,
+    "power": 6000,
+    "type": "creature",
+    "races": [
+      "アーマード・ドラゴン"
+    ],
+    "rarity": "SR",
+    "set": "DMPP-12",
+    "releaseDate": 202201,
+    "text": "■パワード・ブレイカー\n■バトルゾーンに出た時、自分の山札から名前に《ルピア》とあるカードを超探索し、1枚をバトルゾーンに出してもよい。その後、山札をシャッフルする。\n■攻撃中、自分の墓地にあるファイアー・バード1枚につきパワーを+2000する。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/185120.png",
+    "official": {
+      "card_id": 185120,
+      "base_id": 185100,
+      "series_title": "太陽の神歌",
+      "culture": "火",
+      "card_type": "クリーチャー",
+      "power_disp": "6000",
+      "power_attacker": "+",
+      "keywords": "超探索,パワード・ブレイカー",
+      "flavor_text": "どんな絶望があろうとも、希望を信じて戦うのみだ！！――ボルシャック・NEX",
+      "special_rarity": "シークレット",
+      "rare_order": 600,
+      "sp_rare_order": 300,
+      "release_date": 202201
+    },
+    "originType": "modified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "170300",
+    "name": "魔光王機デ・バウラ伯",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "light"
+    ],
+    "cost": 4,
+    "power": 4000,
+    "type": "creature",
+    "races": [
+      "グレートメカオー",
+      "ナイト"
+    ],
+    "rarity": "R",
+    "set": "DMPB-02",
+    "releaseDate": 202112,
+    "text": "◇ブロッカー\n■相手プレイヤーを攻撃できない。\n■バトルゾーンに出た時、自分の墓地から呪文1枚を手札に戻してもよい。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/170300.png",
+    "official": {
+      "card_id": 170300,
+      "base_id": 140600,
+      "series_title": "LEGEND OF PLAY'S 2022",
+      "culture": "光",
+      "card_type": "クリーチャー",
+      "power_disp": "4000",
+      "power_attacker": "",
+      "keywords": "ブロッカー",
+      "flavor_text": "知は有効に使うものだよ。――魔光王機デ・バウラ伯",
+      "special_rarity": "ノーマル",
+      "rare_order": 400,
+      "sp_rare_order": 200,
+      "release_date": 202112
+    },
+    "originType": "same",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "165700",
+    "name": "爆獣イナバ・ギーゼ",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "fire"
+    ],
+    "cost": 3,
+    "power": 3000,
+    "type": "creature",
+    "races": [
+      "ドラゴノイド",
+      "オリジン",
+      "ナイト"
+    ],
+    "rarity": "UC",
+    "set": "DMPP-11",
+    "releaseDate": 202111,
+    "text": "■自分の他のナイトすべてに「スピードアタッカー」を与える。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/165700.png",
+    "official": {
+      "card_id": 165700,
+      "base_id": 165700,
+      "series_title": "戦極大決戦",
+      "culture": "火",
+      "card_type": "クリーチャー",
+      "power_disp": "3000",
+      "power_attacker": "",
+      "keywords": "",
+      "flavor_text": "急げ！騙した事に気づかれる前に！――爆獣イナバ・ギーゼ",
+      "special_rarity": "ノーマル",
+      "rare_order": 300,
+      "sp_rare_order": 200,
+      "release_date": 202111
+    },
+    "originType": "same",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "164400",
+    "name": "暗黒獣ヤミノシーザー",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "darkness"
+    ],
+    "cost": 2,
+    "power": 3000,
+    "type": "creature",
+    "races": [
+      "ダーク・モンスター",
+      "ナイト"
+    ],
+    "rarity": "C",
+    "set": "DMPP-11",
+    "releaseDate": 202111,
+    "text": "◇ブロッカー\n■攻撃できない。\n■各ターン、初めて自分が呪文を唱えた時、自分の山札の上から2枚を墓地に置く。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/164400.png",
+    "official": {
+      "card_id": 164400,
+      "base_id": 164400,
+      "series_title": "戦極大決戦",
+      "culture": "闇",
+      "card_type": "クリーチャー",
+      "power_disp": "3000",
+      "power_attacker": "",
+      "keywords": "ブロッカー",
+      "flavor_text": "ロマノフは、ライバルである紫電、そしてサムライに勝つために今その禁忌の力を解き放とうとしていた。それが戦国武闘会に凶事をもたらす存在に導かれているとも知らずに・・・",
+      "special_rarity": "ノーマル",
+      "rare_order": 200,
+      "sp_rare_order": 200,
+      "release_date": 202111
+    },
+    "originType": "original",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "166000",
+    "name": "爆獣ボルカグレンオー",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "fire"
+    ],
+    "cost": 2,
+    "power": 3000,
+    "type": "creature",
+    "races": [
+      "フレイム・モンスター",
+      "ナイト"
+    ],
+    "rarity": "C",
+    "set": "DMPP-11",
+    "releaseDate": 202111,
+    "text": "■バトルゾーンに出た時、自分の手札からナイトまたは呪文を1枚捨ててもよい。そうした場合、カードを1枚引く。\n■自分の進化ナイト・クリーチャーの召喚コストを1少なくする。ただし、0以下にならない。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/166000.png",
+    "official": {
+      "card_id": 166000,
+      "base_id": 166000,
+      "series_title": "戦極大決戦",
+      "culture": "火",
+      "card_type": "クリーチャー",
+      "power_disp": "3000",
+      "power_attacker": "",
+      "keywords": "-",
+      "flavor_text": "天雷と魔光の連合軍だった「アルカディアス騎士団」の敗戦を見て、ロマノフは紫電に敗れた自分と重ね、何としてもサムライたちを打ち倒し、戦国武闘会を勝ちたいと考えた。",
+      "special_rarity": "ノーマル",
+      "rare_order": 200,
+      "sp_rare_order": 200,
+      "release_date": 202111
+    },
+    "originType": "original",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "150700",
+    "name": "魔弾グローリー・ゲート",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "light"
+    ],
+    "cost": 3,
+    "power": null,
+    "type": "spell",
+    "races": [
+      "ナイト"
+    ],
+    "rarity": "UC",
+    "set": "DMPP-10EX",
+    "releaseDate": 202110,
+    "text": "【Km】自分の山札の上から3枚を表向きにする。その中からナイトを1枚手札に加え、残りをランダムな順番で山札の下に置く。\n■ナイト・マジック",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/150700.png",
+    "official": {
+      "card_id": 150700,
+      "base_id": 150700,
+      "series_title": "魔帝剣征",
+      "culture": "光",
+      "card_type": "呪文",
+      "power_disp": "-",
+      "power_attacker": "",
+      "keywords": "ナイト・マジック",
+      "flavor_text": "白き魔弾は、騎士たちの栄光の門を開く！",
+      "special_rarity": "ノーマル",
+      "rare_order": 300,
+      "sp_rare_order": 200,
+      "release_date": 202110
+    },
+    "originType": "same",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "152400",
+    "name": "魔弾バレット・バイス",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "darkness"
+    ],
+    "cost": 4,
+    "power": null,
+    "type": "spell",
+    "races": [
+      "ナイト"
+    ],
+    "rarity": "UC",
+    "set": "DMPP-10EX",
+    "releaseDate": 202110,
+    "text": "【Km】相手の手札をランダムに1枚捨てさせる。\n■ナイト・マジック",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/152400.png",
+    "official": {
+      "card_id": 152400,
+      "base_id": 152400,
+      "series_title": "魔帝剣征",
+      "culture": "闇",
+      "card_type": "呪文",
+      "power_disp": "-",
+      "power_attacker": "",
+      "keywords": "ナイト・マジック",
+      "flavor_text": "\n\n銀の魔弾は、鎖の魔弾。",
+      "special_rarity": "ノーマル",
+      "rare_order": 300,
+      "sp_rare_order": 200,
+      "release_date": 202110
+    },
+    "originType": "same",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "141700",
+    "name": "氷牙アクア・マルガレーテ卿",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "water"
+    ],
+    "cost": 7,
+    "power": 6000,
+    "type": "creature",
+    "races": [
+      "リキッド・ピープル",
+      "ナイト"
+    ],
+    "rarity": "SR",
+    "set": "DMPP-10",
+    "releaseDate": 202108,
+    "text": "■W・ブレイカー\n■バトルゾーンに出た時、自分の手札から「ナイト・マジック」を持つ呪文1枚を、コストを支払わずに唱えてもよい。\n■自分が呪文を唱えた時、相手の、クリーチャーまたはクロスギア1枚を手札に戻してもよい。（この効果は、各ターン中1回のみ発動する）",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/141700.png",
+    "official": {
+      "card_id": 141700,
+      "base_id": 141700,
+      "series_title": "戦国武闘会",
+      "culture": "水",
+      "card_type": "クリーチャー",
+      "power_disp": "6000",
+      "power_attacker": "",
+      "keywords": "W・ブレイカー",
+      "flavor_text": "マルガレーテ卿の魔力の前では、眼前にいることさえままならぬ。予選において彼に触れた者は唯一人もいない。",
+      "special_rarity": "ノーマル",
+      "rare_order": 600,
+      "sp_rare_order": 200,
+      "release_date": 202108
+    },
+    "originType": "modified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "140600",
+    "name": "魔光王機デ・バウラ伯",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "light"
+    ],
+    "cost": 4,
+    "power": 4000,
+    "type": "creature",
+    "races": [
+      "グレートメカオー",
+      "ナイト"
+    ],
+    "rarity": "R",
+    "set": "DMPP-10",
+    "releaseDate": 202108,
+    "text": "◇ブロッカー\n■相手プレイヤーを攻撃できない。\n■バトルゾーンに出た時、自分の墓地から呪文1枚を手札に戻してもよい。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/140600.png",
+    "official": {
+      "card_id": 140600,
+      "base_id": 140600,
+      "series_title": "戦国武闘会",
+      "culture": "光",
+      "card_type": "クリーチャー",
+      "power_disp": "4000",
+      "power_attacker": "",
+      "keywords": "ブロッカー",
+      "flavor_text": "ナイトが魔弾を撃つ時、聖なる翼がその魔銃より吹き上がる。",
+      "special_rarity": "ノーマル",
+      "rare_order": 400,
+      "sp_rare_order": 200,
+      "release_date": 202108
+    },
+    "originType": "same",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "141000",
+    "name": "天雷の導士アヴァラルド公",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "light"
+    ],
+    "cost": 3,
+    "power": 1000,
+    "type": "creature",
+    "races": [
+      "アーク・セラフィム",
+      "ナイト"
+    ],
+    "rarity": "C",
+    "set": "DMPP-10",
+    "releaseDate": 202108,
+    "text": "■バトルゾーンに出た時、自分の山札の上から3枚を表向きにする。その中から呪文をすべて手札に加え、それ以外をランダムな順番で山札の下に置く。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/141000.png",
+    "official": {
+      "card_id": 141000,
+      "base_id": 141000,
+      "series_title": "戦国武闘会",
+      "culture": "光",
+      "card_type": "クリーチャー",
+      "power_disp": "1000",
+      "power_attacker": "",
+      "keywords": "-",
+      "flavor_text": "練り込んだ呪文を弾丸にして放つ。それが戦乱の世の騎士剣「魔銃」なり。",
+      "special_rarity": "ノーマル",
+      "rare_order": 200,
+      "sp_rare_order": 200,
+      "release_date": 202108
+    },
+    "originType": "same",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "144900",
+    "name": "魔光ドラム・トレボール",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "darkness"
+    ],
+    "cost": 2,
+    "power": 1000,
+    "type": "creature",
+    "races": [
+      "ガーゴイル",
+      "ナイト"
+    ],
+    "rarity": "C",
+    "set": "DMPP-10",
+    "releaseDate": 202108,
+    "text": "■自分の「ナイト・マジック」を持つ呪文を唱えるコストを1少なくする。ただし、0以下にならない。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/144900.png",
+    "official": {
+      "card_id": 144900,
+      "base_id": 144900,
+      "series_title": "戦国武闘会",
+      "culture": "闇",
+      "card_type": "クリーチャー",
+      "power_disp": "1000",
+      "power_attacker": "",
+      "keywords": "-",
+      "flavor_text": "ドラム型カタツムリ、いざ発進！ドンドコドカーン！――魔光ドラム・トレボール",
+      "special_rarity": "ノーマル",
+      "rare_order": 200,
+      "sp_rare_order": 200,
+      "release_date": 202108
+    },
+    "originType": "same",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "145000",
+    "name": "魔弾ソウル・キャッチャー",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "darkness"
+    ],
+    "cost": 2,
+    "power": null,
+    "type": "spell",
+    "races": [
+      "ナイト"
+    ],
+    "rarity": "C",
+    "set": "DMPP-10",
+    "releaseDate": 202108,
+    "text": "【Km】自分の墓地からクリーチャー1枚を手札に戻す。\n■ナイト・マジック",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/145000.png",
+    "official": {
+      "card_id": 145000,
+      "base_id": 145000,
+      "series_title": "戦国武闘会",
+      "culture": "闇",
+      "card_type": "呪文",
+      "power_disp": "-",
+      "power_attacker": "",
+      "keywords": "ナイト・マジック",
+      "flavor_text": "第2の魔弾は命の魔弾。死せる躯に命を灯す。",
+      "special_rarity": "ノーマル",
+      "rare_order": 200,
+      "sp_rare_order": 200,
+      "release_date": 202108
+    },
+    "originType": "same",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "100000",
+    "name": "連珠の精霊アガピトス",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "light"
+    ],
+    "cost": 6,
+    "power": 6000,
+    "type": "creature",
+    "races": [
+      "エンジェル・コマンド"
+    ],
+    "rarity": "SR",
+    "set": "DMPP-08",
+    "releaseDate": 202102,
+    "text": "◇ブロッカー\n■W・ブレイカー\n■バトルゾーンに出た時、自分の山札から光のコスト3以下のクリーチャーを探索し、1枚をバトルゾーンに出す。その後、山札をシャッフルする。\n■自分の光のコスト3以下のクリーチャーがバトルゾーンに出た時、相手のパワーの最も小さい、アンタップしているクリーチャー1体をタップする。（複数あるなら、その中からランダムに1体）",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/100000.png",
+    "official": {
+      "card_id": 100000,
+      "base_id": 100000,
+      "series_title": "極神創世譚",
+      "culture": "光",
+      "card_type": "クリーチャー",
+      "power_disp": "6000",
+      "power_attacker": "",
+      "keywords": "ブロッカー,W・ブレイカー,探索",
+      "flavor_text": "不死鳥たちが消え、神による平和な世界が築かれるかと思われた。しかしそれは、新たなる戦いの始まりにすぎなかった。",
+      "special_rarity": "ノーマル",
+      "rare_order": 600,
+      "sp_rare_order": 200,
+      "release_date": 202102
+    },
+    "originType": "same",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "90400",
+    "name": "光神龍セブンス",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "light"
+    ],
+    "cost": 5,
+    "power": 4500,
+    "type": "creature",
+    "races": [
+      "アポロニア・ドラゴン"
+    ],
+    "rarity": "R",
+    "set": "DMPP-07",
+    "releaseDate": 202012,
+    "text": "■自分のドラゴンすべてに「ブロッカー」を与える。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/90400.png",
+    "official": {
+      "card_id": 90400,
+      "base_id": 90400,
+      "series_title": "超神星爆誕",
+      "culture": "光",
+      "card_type": "クリーチャー",
+      "power_disp": "4500",
+      "power_attacker": "",
+      "keywords": "-",
+      "flavor_text": "気高き魂こそが、奇跡を起こす力となる！",
+      "special_rarity": "ノーマル",
+      "rare_order": 400,
+      "sp_rare_order": 200,
+      "release_date": 202012
+    },
+    "originType": "modified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  },
+  {
+    "id": "81800",
+    "name": "インビンシブル・テクノロジー",
+    "game": "duel_masters_play",
+    "civilizations": [
+      "water"
+    ],
+    "cost": 13,
+    "power": null,
+    "type": "spell",
+    "races": [],
+    "rarity": "SR",
+    "set": "DMPP-06",
+    "releaseDate": 202010,
+    "text": "■自分のマナゾーンにあるカードがすべて水なら、唱えるコストを6少なくする。\n■手札が10枚になるまでカードを引く。その後、水のクリーチャー1枚を自分の手札からバトルゾーンに出す。",
+    "image": "https://dmps.takaratomy.co.jp/card/img/card/81800.png",
+    "official": {
+      "card_id": 81800,
+      "base_id": 81800,
+      "series_title": "超獣の転生",
+      "culture": "水",
+      "card_type": "呪文",
+      "power_disp": "-",
+      "power_attacker": "",
+      "keywords": "-",
+      "flavor_text": "王から英知を授かる事で、サイバーロード達は大いなる力を手にすることに成功した。",
+      "special_rarity": "ノーマル",
+      "rare_order": 600,
+      "sp_rare_order": 200,
+      "release_date": 202010
+    },
+    "originType": "modified",
+    "originNote": "",
+    "artReplacement": "undecided"
+  }
+]
