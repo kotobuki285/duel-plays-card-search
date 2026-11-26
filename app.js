@@ -504,12 +504,40 @@ elements.sort.addEventListener('change', filterCards);
 document.querySelector('.dialog-close').addEventListener('click', () => elements.dialog.close());
 elements.dialog.addEventListener('click', event => { if (event.target === elements.dialog) elements.dialog.close(); });
 
+async function loadCatalogUpdates(baseCards) {
+  const updatePaths = [
+    "./data/updates/2026-11-26-1.json",
+    "./data/updates/2026-11-26-2.json",
+    "./data/updates/2026-11-26-3.json",
+    "./data/updates/2026-11-26-4.json",
+    "./data/updates/2026-11-26-5.json",
+    "./data/updates/2026-11-26-6.json",
+    "./data/updates/2026-11-26-7.json"
+];
+  const batches = await Promise.all(updatePaths.map(async path => {
+    const response = await fetch(path);
+    if (!response.ok) throw new Error(`追加カードデータを読み込めませんでした (${response.status})`);
+    const updates = await response.json();
+    if (!Array.isArray(updates) || updates.some(card => !card || !card.id || !card.name)) {
+      throw new Error('追加カードデータの形式が不正です');
+    }
+    return updates;
+  }));
+  const cardsById = new Map(baseCards.map(card => [String(card.id), card]));
+  for (const card of batches.flat()) {
+    const id = String(card.id);
+    cardsById.set(id, { ...cardsById.get(id), ...card });
+  }
+  return [...cardsById.values()];
+}
+
 async function loadCards() {
   try {
     const response = await fetch('./data/cards.json');
     if (!response.ok) throw new Error(`cards.json を読み込めませんでした (${response.status})`);
-    const data = await response.json();
+    let data = await response.json();
     if (!Array.isArray(data)) throw new Error('cards.json のトップレベルは配列にしてください');
+    data = await loadCatalogUpdates(data);
     warnForInvalidCards(data);
     cards = data.filter(card => card && typeof card === 'object' && !Array.isArray(card) && card.id && card.name);
     firstImplementationByName = buildFirstImplementationDates(cards);
